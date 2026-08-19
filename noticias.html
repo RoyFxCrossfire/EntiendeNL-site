@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Noticias para migrantes — EntiendeNL</title>
+<meta name="description" content="Noticias breves sobre migración, regulación y trabajo en los Países Bajos y Europa, resumidas en español con enlace a la fuente original.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="site">
+  <nav class="nav">
+    <a class="brand" href="index.html">Entiende<span class="dot">NL</span></a>
+    <ul class="navlinks">
+      <li><a href="index.html">Inicio</a></li>
+      <li><a href="noticias.html" class="active">Noticias</a></li>
+      <li><a href="guias.html">Guías</a></li>
+      <li><a href="precios.html">Precios</a></li>
+      <li><a href="sobre.html">Sobre nosotros</a></li>
+      <li><a href="contacto.html">Contacto</a></li>
+    </ul>
+    <a class="navcta" href="https://t.me/EntiendeNL" target="_blank" rel="noopener">Abrir el bot</a>
+    <button class="menutoggle" aria-label="Abrir menú">☰</button>
+  </nav>
+</header>
+
+<div class="wrap pagehead">
+  <p class="eyebrow">Actualizado con regularidad</p>
+  <h1>Noticias para migrantes en los Países Bajos y Europa</h1>
+  <p class="lede">Resúmenes breves, siempre con enlace a la fuente original. No reproducimos artículos completos.</p>
+</div>
+
+<section>
+  <div class="wrap">
+    <div class="filterbar">
+      <button class="filterbtn active" data-cat="todas">Todas</button>
+      <button class="filterbtn" data-cat="nederland">Países Bajos</button>
+      <button class="filterbtn" data-cat="europa">Europa</button>
+      <button class="filterbtn" data-cat="regulacion">Regulación</button>
+      <button class="filterbtn" data-cat="trabajo">Trabajo y derechos</button>
+    </div>
+    <div id="news-list"></div>
+    <p id="news-empty">No hay noticias en esta categoría todavía.</p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap footgrid">
+    <div>
+      <a class="brand" href="index.html">Entiende<span class="dot">NL</span></a>
+      <p class="footnote">Un proyecto de Concordia Ventures.</p>
+    </div>
+    <ul class="footlinks">
+      <li><a href="guias.html">Guías</a></li>
+      <li><a href="sobre.html">Sobre nosotros</a></li>
+      <li><a href="contacto.html">Contacto</a></li>
+      <li><a href="privacidad.html">Privacidad y términos</a></li>
+    </ul>
+  </div>
+</footer>
+
+<script src="assets/main.js"></script>
+<script>loadNews('news-list', { filterable: true });</script>
+</body>
+</html>

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EntiendeNL — Entiende tu correspondencia y tu vida en los Países Bajos</title>
+<meta name="description" content="EntiendeNL traduce y explica tus documentos oficiales holandeses y te mantiene informado sobre migración en los Países Bajos y Europa.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="site">
+  <nav class="nav">
+    <a class="brand" href="index.html">Entiende<span class="dot">NL</span></a>
+    <ul class="navlinks">
+      <li><a href="index.html" class="active">Inicio</a></li>
+      <li><a href="noticias.html">Noticias</a></li>
+      <li><a href="guias.html">Guías</a></li>
+      <li><a href="precios.html">Precios</a></li>
+      <li><a href="sobre.html">Sobre nosotros</a></li>
+      <li><a href="contacto.html">Contacto</a></li>
+    </ul>
+    <a class="navcta" href="https://t.me/EntiendeNL" target="_blank" rel="noopener">Abrir el bot</a>
+    <button class="menutoggle" aria-label="Abrir menú">☰</button>
+  </nav>
+</header>
+
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <p class="eyebrow">Correspondencia oficial, explicada en español</p>
+      <h1>Ese documento holandés que no entiendes, lo entendemos por ti.</h1>
+      <p class="lede">¿Piensas viajar a los Países Bajos pero te da miedo no conocer el idioma? Nosotros te ayudamos: instala nuestro bot de Telegram y en un instante recibe una respuesta sobre el documento que recibiste — de la Belastingdienst, tu municipio, tu aseguradora y más.</p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="https://t.me/EntiendeNL" target="_blank" rel="noopener">Probar el bot en Telegram</a>
+        <a class="btn btn-ghost" href="noticias.html">Ver noticias</a>
+      </div>
+    </div>
+    <div class="envelope">
+      <span class="stamp">GEMEENTE</span>
+      <div class="line w90"></div>
+      <div class="line w80"></div>
+      <div class="sticky">💬 Esto es tu declaración de impuestos anual</div>
+      <div class="line w60"></div>
+      <div class="line w90"></div>
+      <div class="sticky right">📌 Fecha límite: 1 de mayo</div>
+      <div class="line w40"></div>
+    </div>
+  </div>
+</section>
+
+<section class="alt">
+  <div class="wrap">
+    <h2>Últimas noticias para migrantes</h2>
+    <p class="section-sub">Resúmenes breves en español, con enlace directo a la fuente original. Actualizado con regularidad.</p>
+    <div id="news-preview" class="grid3"></div>
+    <p style="margin-top:24px;"><a class="btn btn-ghost" href="noticias.html">Ver todas las noticias →</a></p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>Cómo funciona el bot</h2>
+    <p class="section-sub">Tres pasos, sin complicaciones.</p>
+    <div class="grid3">
+      <div class="card">
+        <h3>1. Envía una foto</h3>
+        <p>Fotografía o reenvía el documento que recibiste — de Hacienda, tu ayuntamiento, tu seguro médico, lo que sea.</p>
+      </div>
+      <div class="card">
+        <h3>2. Recibe la explicación</h3>
+        <p>El bot te explica en español qué dice el documento, qué te están pidiendo y qué plazos tienes.</p>
+      </div>
+      <div class="card">
+        <h3>3. Actúa con confianza</h3>
+        <p>Sabes exactamente qué hacer a continuación, sin depender de traducir palabra por palabra.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="alt">
+  <div class="wrap">
+    <h2>Guías más consultadas</h2>
+    <p class="section-sub">Explicaciones claras de los trámites que más dudas generan.</p>
+    <div class="grid2">
+      <a href="guias.html" style="text-decoration:none;color:inherit;">
+        <div class="card guide-card">
+          <div class="guide-num">1</div>
+          <div><h3>Qué es el DigiD y cómo solicitarlo</h3><p>Tu identidad digital para trámites del gobierno holandés.</p></div>
+        </div>
+      </a>
+      <a href="guias.html" style="text-decoration:none;color:inherit;">
+        <div class="card guide-card">
+          <div class="guide-num">2</div>
+          <div><h3>Documentos de la Belastingdienst, explicados</h3><p>Cómo leer tu declaración y qué plazos importan.</p></div>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap footgrid">
+    <div>
+      <a class="brand" href="index.html">Entiende<span class="dot">NL</span></a>
+      <p class="footnote">Un proyecto de Concordia Ventures.</p>
+    </div>
+    <ul class="footlinks">
+      <li><a href="noticias.html">Noticias</a></li>
+      <li><a href="guias.html">Guías</a></li>
+      <li><a href="sobre.html">Sobre nosotros</a></li>
+      <li><a href="contacto.html">Contacto</a></li>
+      <li><a href="privacidad.html">Privacidad y términos</a></li>
+    </ul>
+  </div>
+</footer>
+
+<script src="assets/main.js"></script>
+<script>loadNews('news-preview', { limit: 3, compact: true });</script>
+</body>
+</html>

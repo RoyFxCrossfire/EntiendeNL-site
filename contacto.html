@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contacto — EntiendeNL</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="site">
+  <nav class="nav">
+    <a class="brand" href="index.html">Entiende<span class="dot">NL</span></a>
+    <ul class="navlinks">
+      <li><a href="index.html">Inicio</a></li>
+      <li><a href="noticias.html">Noticias</a></li>
+      <li><a href="guias.html">Guías</a></li>
+      <li><a href="precios.html">Precios</a></li>
+      <li><a href="sobre.html">Sobre nosotros</a></li>
+      <li><a href="contacto.html" class="active">Contacto</a></li>
+    </ul>
+    <a class="navcta" href="https://t.me/EntiendeNL" target="_blank" rel="noopener">Abrir el bot</a>
+    <button class="menutoggle" aria-label="Abrir menú">☰</button>
+  </nav>
+</header>
+
+<div class="wrap pagehead">
+  <p class="eyebrow">Hablemos</p>
+  <h1>Contacto</h1>
+  <p class="lede">¿Preguntas, sugerencias o algo que corregir? Escríbenos.</p>
+</div>
+
+<section>
+  <div class="wrap">
+    <form class="contact" action="mailto:info@entiendenl.com" method="post" enctype="text/plain">
+      <div>
+        <label for="name">Nombre</label><br>
+        <input id="name" name="name" type="text" required style="width:100%;">
+      </div>
+      <div>
+        <label for="email">Correo electrónico</label><br>
+        <input id="email" name="email" type="email" required style="width:100%;">
+      </div>
+      <div>
+        <label for="message">Mensaje</label><br>
+        <textarea id="message" name="message" required style="width:100%;"></textarea>
+      </div>
+      <button class="btn btn-primary" type="submit" style="align-self:flex-start;">Enviar mensaje</button>
+    </form>
+    <p class="footnote" style="margin-top:20px;">También puedes escribirnos directamente al bot en <a href="https://t.me/EntiendeNL" target="_blank" rel="noopener">Telegram</a>.</p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap footgrid">
+    <div>
+      <a class="brand" href="index.html">Entiende<span class="dot">NL</span></a>
+      <p class="footnote">Un proyecto de Concordia Ventures.</p>
+    </div>
+    <ul class="footlinks">
+      <li><a href="noticias.html">Noticias</a></li>
+      <li><a href="guias.html">Guías</a></li>
+      <li><a href="sobre.html">Sobre nosotros</a></li>
+      <li><a href="privacidad.html">Privacidad y términos</a></li>
+    </ul>
+  </div>
+</footer>
+
+<script src="assets/main.js"></script>
+</body>
+</html>

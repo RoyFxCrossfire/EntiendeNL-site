@@ -1,0 +1,36 @@
+{
+  "articles": [
+    {
+      "title": "Nuevo sistema de autorización para empresas de trabajo temporal",
+      "summary": "El gobierno neerlandés introduce un sistema de autorización obligatoria para agencias de trabajo temporal, detacheerders y empresas de payroll. A partir del 1 de enero de 2028, estas empresas solo podrán operar con un permiso oficial de la nueva Autoridad del Mercado de Trabajo Temporal. El objetivo es frenar los abusos que sufren muchos trabajadores migrantes en vivienda y condiciones laborales.",
+      "category": "regulacion",
+      "source": "Rijksoverheid.nl",
+      "source_url": "https://www.rijksoverheid.nl/onderwerpen/buitenlandse-werknemers/verbeteren-positie-arbeidsmigranten",
+      "date": "2026-06-19"
+    },
+    {
+      "title": "Ministerio retrasó decisión sobre descuentos al salario mínimo por vivienda",
+      "summary": "Documentos obtenidos por prensa neerlandesa muestran que la exministra de Asuntos Sociales retrasó deliberadamente el anuncio de una decisión sobre el salario mínimo de trabajadores migrantes hasta después de las elecciones. La decisión permite a empleadores seguir descontando parte del salario mínimo para cubrir costos de vivienda.",
+      "category": "trabajo",
+      "source": "Transport Online",
+      "source_url": "https://www.transport-online.nl/134315/minister-wachtte-bewust-tot-na-verkiezingen-met-besluit-over-loon-arbeidsmigranten/",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Dos de cada tres neerlandeses apoyan la migración laboral, pero con límites",
+      "summary": "Según una encuesta del CBS (oficina de estadística neerlandesa), el 68% de los adultos considera que el país debería seguir aceptando trabajadores migrantes, aunque con un número máximo. Un 75% cree que la migración laboral ayuda a resolver la escasez de personal en ciertos sectores, aunque muchos también temen presión sobre la vivienda disponible.",
+      "category": "nederland",
+      "source": "CBS",
+      "source_url": "https://www.cbs.nl/nl-nl/nieuws/2026/24/twee-derde-voor-begrensd-toelaten-arbeidsmigranten",
+      "date": "2026-06-08"
+    },
+    {
+      "title": "Limburgo necesita más de 2.100 plazas de vivienda para trabajadores extranjeros",
+      "summary": "Organizaciones agrícolas de Limburgo reportan una fuerte escasez de alojamiento temporal para trabajadores internacionales en el sector agrícola. Piden a los municipios incluir la vivienda para migrantes laborales en sus políticas urbanas, incluyendo opciones en terrenos agrícolas.",
+      "category": "trabajo",
+      "source": "Nieuwe Oogst",
+      "source_url": "https://www.nieuweoogst.nl/tags/arbeidsmigranten/",
+      "date": "2026-06-03"
+    }
+  ]
+}
