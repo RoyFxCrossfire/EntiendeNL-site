@@ -5,16 +5,21 @@ Fetches migration/regulation/labor news from a set of RSS feeds, writes a
 short Spanish-language summary of each new item using the Anthropic API,
 and updates assets/news_data.json in the format the site expects.
 
+Also posts each newly added article to the EntiendeNL Telegram channel
+(the bot must already be an admin of the channel with post permission).
+
 Never republishes full articles - only a short summary plus a link to
 the original source, to respect copyright and keep the content
 AdSense-appropriate.
 
 Usage:
-    pip install feedparser anthropic --break-system-packages
-    export ANTHROPIC_API_KEY=sk-...
-    python fetch_news.py                 # fetch real feeds
-    python fetch_news.py --dry-run        # use sample entries, no network/API calls
-    python fetch_news.py --max-per-feed 3
+pip install feedparser anthropic --break-system-packages
+export ANTHROPIC_API_KEY=sk-...
+export TELEGRAM_TOKEN=123456:abc...      # optional, enables channel posting
+export TELEGRAM_CHANNEL=@EntiendeNL      # optional, defaults to @EntiendeNL
+python fetch_news.py                     # fetch real feeds
+python fetch_news.py --dry-run           # use sample entries, no network/API calls
+python fetch_news.py --max-per-feed 3
 
 Intended to run on a schedule (e.g. a daily cron job or Render
 scheduled/worker job, similar to how the EntiendeNL bot is hosted).
@@ -23,6 +28,8 @@ scheduled/worker job, similar to how the EntiendeNL bot is hosted).
 import json
 import argparse
 import sys
+import urllib.request
+import urllib.error
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -64,6 +71,64 @@ DRY_RUN_SAMPLE_ENTRIES = [
         "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
     }
 ]
+
+# =========================
+# Telegram channel posting
+# =========================
+import os
+
+TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
+TELEGRAM_CHANNEL = os.environ.get("TELEGRAM_CHANNEL", "@EntiendeNL")
+SITE_URL = os.environ.get("SITE_URL", "https://entiendenl.com")
+
+CATEGORY_EMOJI = {
+    "nederland": "🇳🇱",
+    "europa": "🇪🇺",
+    "regulacion": "📋",
+    "trabajo": "💼",
+}
+
+
+def post_to_telegram(article):
+    """Post one article to the EntiendeNL Telegram channel.
+
+    Requires TELEGRAM_TOKEN (same bot token used by the EntiendeNL bot) to be
+    set in the environment. The bot must already be an admin of the channel
+    with permission to post messages. Failures are logged but never raise,
+    so a Telegram outage never breaks the news_data.json update.
+    """
+    if not TELEGRAM_TOKEN:
+        print("TELEGRAM_TOKEN no configurado; se omite la publicacion en Telegram.", file=sys.stderr)
+        return False
+
+    emoji = CATEGORY_EMOJI.get(article["category"], "📰")
+    text = (
+        f"{emoji} *{article['title']}*\n\n"
+        f"{article['summary']}\n\n"
+        f"Fuente: {article['source']}\n"
+        f"🔗 {article['source_url']}\n\n"
+        f"Mas noticias: {SITE_URL}/noticias.html"
+    )
+
+    payload = json.dumps({
+        "chat_id": TELEGRAM_CHANNEL,
+        "text": text,
+        "parse_mode": "Markdown",
+        "disable_web_page_preview": False,
+    }).encode("utf-8")
+
+    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
+    req = urllib.request.Request(url, data=payload, headers={"Content-Type": "application/json"})
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            resp.read()
+        return True
+    except urllib.error.HTTPError as exc:
+        body = exc.read().decode("utf-8", errors="replace")
+        print(f"Error publicando en Telegram (HTTP {exc.code}): {body}", file=sys.stderr)
+    except Exception as exc:
+        print(f"Error publicando en Telegram: {exc}", file=sys.stderr)
+    return False
 
 
 def load_existing():
@@ -117,6 +182,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true", help="use sample data, skip network and API calls")
     parser.add_argument("--max-per-feed", type=int, default=5)
+    parser.add_argument("--no-telegram", action="store_true", help="skip posting to the Telegram channel even if TELEGRAM_TOKEN is set")
     args = parser.parse_args()
 
     existing = load_existing()
@@ -139,6 +205,7 @@ def main():
         client = anthropic.Anthropic()
 
     added = 0
+    posted = 0
     for entry in new_entries:
         try:
             if args.dry_run:
@@ -159,12 +226,16 @@ def main():
             }
             existing["articles"].insert(0, article)
             added += 1
+
+            if not args.dry_run and not args.no_telegram:
+                if post_to_telegram(article):
+                    posted += 1
         except Exception as exc:
             print(f"Error procesando '{entry.get('orig_title')}': {exc}", file=sys.stderr)
 
     existing["articles"].sort(key=lambda a: a["date"], reverse=True)
     save(existing)
-    print(f"Anadidos {added} articulos nuevos. Total en archivo: {len(existing['articles'])}.")
+    print(f"Anadidos {added} articulos nuevos ({posted} publicados en Telegram). Total en archivo: {len(existing['articles'])}.")
 
 
 if __name__ == "__main__":
