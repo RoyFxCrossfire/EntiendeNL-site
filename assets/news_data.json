@@ -1,20 +1,20 @@
 {
   "articles": [
     {
-      "title": "Nuevo sistema de autorización para empresas de trabajo temporal",
-      "summary": "El gobierno neerlandés introduce un sistema de autorización obligatoria para agencias de trabajo temporal, detacheerders y empresas de payroll. A partir del 1 de enero de 2028, estas empresas solo podrán operar con un permiso oficial de la nueva Autoridad del Mercado de Trabajo Temporal. El objetivo es frenar los abusos que sufren muchos trabajadores migrantes en vivienda y condiciones laborales.",
-      "category": "regulacion",
-      "source": "Rijksoverheid.nl",
-      "source_url": "https://www.rijksoverheid.nl/onderwerpen/buitenlandse-werknemers/verbeteren-positie-arbeidsmigranten",
-      "date": "2026-06-19"
-    },
-    {
       "title": "Ministerio retrasó decisión sobre descuentos al salario mínimo por vivienda",
       "summary": "Documentos obtenidos por prensa neerlandesa muestran que la exministra de Asuntos Sociales retrasó deliberadamente el anuncio de una decisión sobre el salario mínimo de trabajadores migrantes hasta después de las elecciones. La decisión permite a empleadores seguir descontando parte del salario mínimo para cubrir costos de vivienda.",
       "category": "trabajo",
       "source": "Transport Online",
       "source_url": "https://www.transport-online.nl/134315/minister-wachtte-bewust-tot-na-verkiezingen-met-besluit-over-loon-arbeidsmigranten/",
       "date": "2026-08-06"
+    },
+    {
+      "title": "Nuevo sistema de autorización para empresas de trabajo temporal",
+      "summary": "El gobierno neerlandés introduce un sistema de autorización obligatoria para agencias de trabajo temporal, detacheerders y empresas de payroll. A partir del 1 de enero de 2028, estas empresas solo podrán operar con un permiso oficial de la nueva Autoridad del Mercado de Trabajo Temporal. El objetivo es frenar los abusos que sufren muchos trabajadores migrantes en vivienda y condiciones laborales.",
+      "category": "regulacion",
+      "source": "Rijksoverheid.nl",
+      "source_url": "https://www.rijksoverheid.nl/onderwerpen/buitenlandse-werknemers/verbeteren-positie-arbeidsmigranten",
+      "date": "2026-06-19"
     },
     {
       "title": "Dos de cada tres neerlandeses apoyan la migración laboral, pero con límites",
