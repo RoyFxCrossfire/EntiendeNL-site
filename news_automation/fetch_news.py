@@ -13,13 +13,13 @@ the original source, to respect copyright and keep the content
 AdSense-appropriate.
 
 Usage:
-pip install feedparser anthropic --break-system-packages
-export ANTHROPIC_API_KEY=sk-...
-export TELEGRAM_TOKEN=123456:abc...      # optional, enables channel posting
-export TELEGRAM_CHANNEL=@EntiendeNL      # optional, defaults to @EntiendeNL
-python fetch_news.py                     # fetch real feeds
-python fetch_news.py --dry-run           # use sample entries, no network/API calls
-python fetch_news.py --max-per-feed 3
+    pip install feedparser anthropic --break-system-packages
+    export ANTHROPIC_API_KEY=sk-...
+    export TELEGRAM_TOKEN=123456:abc...   # optional, enables channel posting
+    export TELEGRAM_CHANNEL=@EntiendeNL   # optional, defaults to @EntiendeNL
+    python fetch_news.py                  # fetch real feeds
+    python fetch_news.py --dry-run        # use sample entries, no network/API calls
+    python fetch_news.py --max-per-feed 3
 
 Runs relevance-filtering: since the RSS feeds here are general Dutch/EU news
 feeds (not migration-specific), every entry is checked by Claude for
@@ -59,6 +59,13 @@ RSS_FEEDS = [
     {"name": "Europa.eu", "url": "https://ec.europa.eu/commission/presscorner/api/rss?type=all", "category": "europa"},
 ]
 
+# NOTE: this template is filled in with str.format(orig_title=..., orig_description=...).
+# Every literal "{" and "}" that is NOT one of those two placeholders must be
+# escaped as "{{" / "}}", otherwise str.format() tries to interpret the JSON
+# example braces (e.g. {"relevant": false}) as format fields and raises
+# KeyError('"relevant"') for every single call - which silently breaks
+# relevance analysis for 100% of entries (this bit us in production: see
+# git history for the fix).
 ANALYSIS_PROMPT = """Eres un asistente editorial para EntiendeNL, un sitio que informa a \
 migrantes hispanohablantes en los Paises Bajos. Te doy el titulo y la descripcion de un \
 articulo de noticias general (no necesariamente sobre migracion).
@@ -70,7 +77,7 @@ politica de asilo, o decisiones de la UE que afecten a residentes de NL. Un arti
 general, economia general, deportes, sucesos, famosos, etc. NO es relevante salvo que toque \
 alguno de esos temas directamente.
 
-Si NO es relevante, responde exactamente: {"relevant": false}
+Si NO es relevante, responde exactamente: {{"relevant": false}}
 
 Si SI es relevante, responde con:
 1. Un titulo breve en espanol (una linea, sin comillas)
@@ -79,8 +86,8 @@ a una persona migrante (plazos, requisitos, a quien afecta). No copies frases \
 textuales del original, redacta con tus propias palabras.
 
 Responde solo en JSON valido, sin texto adicional, con uno de estos dos formatos exactos:
-{"relevant": false}
-{"relevant": true, "title": "...", "summary": "..."}
+{{"relevant": false}}
+{{"relevant": true, "title": "...", "summary": "..."}}
 
 Titulo original: {orig_title}
 Descripcion original: {orig_description}
@@ -112,7 +119,6 @@ CATEGORY_EMOJI = {
     "regulacion": "📋",
     "trabajo": "💼",
 }
-
 
 def post_to_telegram(article):
     """Post one article to the EntiendeNL Telegram channel.
@@ -155,23 +161,19 @@ def post_to_telegram(article):
         print(f"Error publicando en Telegram: {exc}", file=sys.stderr)
     return False
 
-
 def load_existing():
     if NEWS_JSON_PATH.exists():
         with open(NEWS_JSON_PATH, "r", encoding="utf-8") as f:
             return json.load(f)
     return {"articles": []}
 
-
 def save(data):
     data["articles"] = data["articles"][:MAX_ARTICLES_KEPT]
     with open(NEWS_JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-
 def already_have(existing, link):
     return any(a.get("source_url") == link for a in existing["articles"])
-
 
 def analyze_with_claude(client, orig_title, orig_description):
     """Ask Claude whether this article is relevant to the site's audience and,
@@ -186,8 +188,10 @@ def analyze_with_claude(client, orig_title, orig_description):
     )
     text = "".join(block.text for block in message.content if block.type == "text")
     text = text.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
-    return json.loads(text)
-
+    parsed = json.loads(text)
+    if not isinstance(parsed, dict) or "relevant" not in parsed:
+        raise ValueError(f"Respuesta inesperada de Claude (no es el JSON esperado): {text!r}")
+    return parsed
 
 def fetch_real_feeds(max_per_feed):
     import feedparser
@@ -205,7 +209,6 @@ def fetch_real_feeds(max_per_feed):
                 "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
             })
     return entries
-
 
 def main():
     parser = argparse.ArgumentParser()
@@ -274,7 +277,6 @@ def main():
         f"Anadidos {added} articulos nuevos ({posted} publicados en Telegram), "
         f"{skipped} descartados por no ser relevantes. Total en archivo: {len(existing['articles'])}."
     )
-
 
 if __name__ == "__main__":
     main()
