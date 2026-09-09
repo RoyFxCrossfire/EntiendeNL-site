@@ -43,7 +43,7 @@ NEWS_JSON_PATH = SITE_ROOT / "assets" / "news_data.json"
 MAX_ARTICLES_KEPT = 30
 
 # Each feed maps to one of the site's categories:
-# nederland | europa | regulacion | trabajo
+# nederland | europa | regulacion | trabajo | curacao
 #
 # NOTE: IND.nl and Rijksoverheid.nl do not currently publish a general-purpose
 # news RSS feed (both were verified to 404 as of 2026-09-09), so this list
@@ -52,11 +52,26 @@ MAX_ARTICLES_KEPT = 30
 # ones, every entry is passed through a relevance filter (see
 # analyze_with_claude) before it's added to the site - most NOS articles will
 # be correctly discarded as not relevant to migrants.
+#
+# NOTE (curacao, 2026-09-09): candidates checked - curacaochronicle.com/feed/
+# just redirects to the homepage (no real feed) and the site itself is
+# intermittently down; curacao.nu does not publish RSS at all (no <link>
+# feed tag, no WordPress generator meta tag); antilliaansdagblad.com/feed
+# could not be verified (tooling failures on every attempt, not a confirmed
+# 404 - worth rechecking later). nu.cw/feed is a confirmed-working, first-
+# party RSS 2.0 feed mixing wire and genuine local Curacao news, so it's the
+# only Curacao source used for now. (Google News RSS search was also tested
+# and returns excellent, highly relevant Curacao results, but its feed
+# <copyright> tag restricts use to "personal feed reader, non-commercial
+# use" - that conflicts with this site's AdSense/commercial use, so it was
+# deliberately left out. Revisit only if that source is dropped or a
+# licensed alternative is found.)
 RSS_FEEDS = [
     {"name": "NOS.nl", "url": "https://feeds.nos.nl/nosnieuwsbinnenland", "category": "nederland"},
     {"name": "NOS.nl", "url": "https://feeds.nos.nl/nosnieuwspolitiek", "category": "regulacion"},
     {"name": "NOS.nl", "url": "https://feeds.nos.nl/nosnieuwseconomie", "category": "trabajo"},
     {"name": "Europa.eu", "url": "https://ec.europa.eu/commission/presscorner/api/rss?type=all", "category": "europa"},
+    {"name": "nu.CW", "url": "https://nu.cw/feed", "category": "curacao"},
 ]
 
 # NOTE: this template is filled in with str.format(orig_title=..., orig_description=...).
@@ -67,15 +82,21 @@ RSS_FEEDS = [
 # relevance analysis for 100% of entries (this bit us in production: see
 # git history for the fix).
 ANALYSIS_PROMPT = """Eres un asistente editorial para EntiendeNL, un sitio que informa a \
-migrantes hispanohablantes en los Paises Bajos. Te doy el titulo y la descripcion de un \
-articulo de noticias general (no necesariamente sobre migracion).
+migrantes hispanohablantes en los Paises Bajos y en Curazao (ambos territorios usan el \
+neerlandes en sus tramites oficiales). Te doy el titulo y la descripcion de un articulo de \
+noticias general (no necesariamente sobre migracion).
 
-Primero decide si es relevante para una persona migrante hispanohablante en los Paises Bajos: \
-temas como migracion, permisos de residencia/trabajo (IND), regulacion laboral, salario minimo, \
-vivienda para trabajadores migrantes, agencias de trabajo temporal (uitzendbureaus), integracion, \
-politica de asilo, o decisiones de la UE que afecten a residentes de NL. Un articulo de politica \
-general, economia general, deportes, sucesos, famosos, etc. NO es relevante salvo que toque \
-alguno de esos temas directamente.
+Primero decide si es relevante para una persona migrante hispanohablante en los Paises Bajos \
+O en Curazao. Es relevante si toca alguno de estos temas:
+- Paises Bajos: migracion, permisos de residencia/trabajo (IND), regulacion laboral, salario \
+minimo, vivienda para trabajadores migrantes, agencias de trabajo temporal (uitzendbureaus), \
+integracion, politica de asilo, o decisiones de la UE que afecten a residentes de NL.
+- Curazao: migracion o mudanza hacia Curazao (permisos de residencia/trabajo, Immigratiedienst \
+Curacao, requisitos para instalarse en la isla), o noticias locales/regulacion de Curazao que \
+afecten a migrantes y residentes (vivienda, empleo, impuestos, SVB, seguridad social, servicios \
+publicos, cambios legales del Gobierno de Curazao).
+Un articulo de politica general, economia general, deportes, sucesos, famosos, etc. NO es \
+relevante salvo que toque alguno de esos temas directamente.
 
 Si NO es relevante, responde exactamente: {{"relevant": false}}
 
@@ -118,6 +139,7 @@ CATEGORY_EMOJI = {
     "europa": "🇪🇺",
     "regulacion": "📋",
     "trabajo": "💼",
+    "curacao": "🏝️",
 }
 
 def post_to_telegram(article):
