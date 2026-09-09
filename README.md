@@ -14,9 +14,17 @@ Es un sitio estático puro (HTML/CSS/JS), así que sirve cualquier hosting simpl
 
 ## Automatizar las noticias
 `news_automation/fetch_news.py`:
-1. Descarga entradas de las fuentes RSS definidas en `RSS_FEEDS`.
-2. Genera un resumen breve en español con la API de Anthropic (nunca copia el artículo completo).
-3. Guarda solo artículos nuevos (evita duplicados por URL) en `assets/news_data.json`, con enlace a la fuente original.
+1. Descarga entradas de las fuentes RSS definidas en `RSS_FEEDS` (actualmente
+   NOS.nl para Países Bajos/regulación/trabajo, y la sala de prensa de la
+   Comisión Europea para Europa — IND.nl y Rijksoverheid.nl no publican un
+   feed RSS general utilizable, se verificó el 2026-09-09).
+2. Como son feeds de noticias generales (no solo migración), cada artículo
+   pasa primero por un filtro de relevancia con la API de Anthropic: si no
+   toca temas de migración/trabajo/regulación relevantes para el público del
+   sitio, se descarta. Si es relevante, se genera un resumen breve en español
+   (nunca copia el artículo completo).
+3. Guarda solo artículos nuevos y relevantes (evita duplicados por URL) en
+   `assets/news_data.json`, con enlace a la fuente original.
 
 Para ejecutarlo:
 ```
@@ -31,16 +39,23 @@ python fetch_news.py --dry-run
 ```
 
 ### Automatización recurrente
-Igual que el bot de EntiendeNL, este script puede correr en Render como un
-"Cron Job" o "Scheduled Job" (por ejemplo, una vez al día), con la variable
-de entorno `ANTHROPIC_API_KEY` configurada. Tras cada ejecución, el
-`news_data.json` actualizado debe volver a subirse/desplegarse junto al
-resto del sitio (o servirse desde un pequeño endpoint si prefieres separar
-datos de contenido estático).
+`.github/workflows/fetch-news.yml` corre este script automáticamente todos
+los días a las 06:00 UTC vía GitHub Actions, y si hay artículos nuevos hace
+commit y push de `assets/news_data.json` — Vercel vuelve a desplegar el
+sitio automáticamente al detectar el push. También se puede lanzar a mano
+desde la pestaña "Actions" del repo ("Run workflow").
 
-**Nota:** los feeds de `RSS_FEEDS` son ejemplos — revisa las URLs reales de
-RSS de IND.nl, Rijksoverheid.nl, NU.nl, etc. antes de usarlo en producción,
-y añade o quita fuentes según lo que quieras cubrir.
+**Para activarlo hace falta un secret en el repo:**
+Settings → Secrets and variables → Actions → New repository secret:
+- `ANTHROPIC_API_KEY` (obligatorio)
+- `TELEGRAM_TOKEN` (opcional, solo si quieres que también publique en el
+  canal de Telegram)
+
+**Nota:** si más adelante encuentras URLs de RSS reales de IND.nl o
+Rijksoverheid.nl (por ejemplo un feed específico de un tema en
+rijksoverheid.nl con botón "Abonneren"), puedes añadirlas a `RSS_FEEDS` en
+`news_automation/fetch_news.py` — el filtro de relevancia seguirá
+funcionando igual.
 
 ## Antes de enviar a AdSense
 - Sustituye todos los textos de ejemplo (privacidad, contacto) por los
