@@ -1,12 +1,20 @@
 {
   "articles": [
     {
-      "title": "Nuevo sistema de autorización para empresas de trabajo temporal",
-      "summary": "El gobierno neerlandés introduce un sistema de autorización obligatoria para agencias de trabajo temporal, detacheerders y empresas de payroll. A partir del 1 de enero de 2028, estas empresas solo podrán operar con un permiso oficial de la nueva Autoridad del Mercado de Trabajo Temporal. El objetivo es frenar los abusos que sufren muchos trabajadores migrantes en vivienda y condiciones laborales.",
+      "title": "Debate en el Parlamento sobre expulsión y reagrupación familiar de solicitante de asilo con múltiples antecedentes",
+      "summary": "El Parlamento neerlandés debatió el caso de un joven sirio de 18 años con 114 registros policiales que permanece en los Países Bajos y ha solicitado reagrupación familiar. Varios partidos exigen al gobierno explicaciones sobre por qué no ha sido expulsado y cómo es posible que pueda solicitar la reunificación con su familia. La secretaria de Estado respondió que, según las normas europeas, una persona sin condena penal firme tiene derecho a solicitar reagrupación familiar, y que solo tras una condena se puede investigar la retirada del permiso de residencia. Este debate es relevante para migrantes porque refleja la presión política para endurecer las condiciones de los permisos de residencia y la reagrupación familiar, y pone de manifiesto los límites que impone la legislación europea al gobierno neerlandés. El asunto continuará debatiéndose en una sesión parlamentaria el próximo jueves con el ministro de Asilo.",
       "category": "regulacion",
-      "source": "Rijksoverheid.nl",
-      "source_url": "https://www.rijksoverheid.nl/onderwerpen/buitenlandse-werknemers/verbeteren-positie-arbeidsmigranten",
-      "date": "2026-06-19"
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2630190",
+      "date": "2026-09-09"
+    },
+    {
+      "title": "Países Bajos debate nueva ley para regular y controlar a los agentes inmobiliarios",
+      "summary": "El partido PVV ha presentado una propuesta de ley para regular la profesión de agente inmobiliario en los Países Bajos, que actualmente carece de control oficial desde 2001. La iniciativa contempla un registro nacional obligatorio, normas de conducta uniformes, supervisión externa y multas por infracciones. Para los migrantes que buscan vivienda, esto es relevante porque actualmente existen prácticas desleales como el intercambio de información confidencial entre agentes y el acceso preferente a nuevas viviendas para quienes ya tienen un agente de compra. La propuesta también busca que todas las viviendas nuevas sean publicadas al mismo tiempo para todos los interesados, sin ventajas para redes cerradas de agentes. Las organizaciones del sector y de consumidores han reaccionado positivamente, por lo que se espera apoyo en el Parlamento.",
+      "category": "regulacion",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2630215",
+      "date": "2026-09-09"
     },
     {
       "title": "Ministerio retrasó decisión sobre descuentos al salario mínimo por vivienda",
@@ -15,6 +23,14 @@
       "source": "Transport Online",
       "source_url": "https://www.transport-online.nl/134315/minister-wachtte-bewust-tot-na-verkiezingen-met-besluit-over-loon-arbeidsmigranten/",
       "date": "2026-08-06"
+    },
+    {
+      "title": "Nuevo sistema de autorización para empresas de trabajo temporal",
+      "summary": "El gobierno neerlandés introduce un sistema de autorización obligatoria para agencias de trabajo temporal, detacheerders y empresas de payroll. A partir del 1 de enero de 2028, estas empresas solo podrán operar con un permiso oficial de la nueva Autoridad del Mercado de Trabajo Temporal. El objetivo es frenar los abusos que sufren muchos trabajadores migrantes en vivienda y condiciones laborales.",
+      "category": "regulacion",
+      "source": "Rijksoverheid.nl",
+      "source_url": "https://www.rijksoverheid.nl/onderwerpen/buitenlandse-werknemers/verbeteren-positie-arbeidsmigranten",
+      "date": "2026-06-19"
     },
     {
       "title": "Dos de cada tres neerlandeses apoyan la migración laboral, pero con límites",
