@@ -1,0 +1,38 @@
+name: Publish guide
+
+on:
+  schedule:
+    # 07:00 UTC every Monday (09:00 in NL during CEST, 08:00 during CET) -
+    # offset from the daily news fetch (06:00 UTC) so they don't overlap.
+    - cron: "0 7 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  publish-guide:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run publish_guide.py
+        run: python news_automation/publish_guide.py
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet -- guias.html sitemap.xml guias/ news_automation/guides_queue.json; then
+            echo "No pending guide to publish."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add guias.html sitemap.xml guias/ news_automation/guides_queue.json
+          git commit -m "Publish next guide article (automated)"
+          git push
