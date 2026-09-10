@@ -1,0 +1,116 @@
+{
+  "guides": [
+    {
+      "slug": "carta-belastingdienst",
+      "title": "Carta del Belastingdienst: qué significa y qué debes hacer",
+      "meta_description": "Cómo identificar si una carta del Belastingdienst es tu declaración de la renta, un recordatorio de pago o una multa, y qué plazos son realmente urgentes.",
+      "category": "documentos",
+      "published": true,
+      "published_date": "2026-09-10"
+    },
+    {
+      "slug": "multa-cjib",
+      "title": "Multa de CJIB: cómo saber si es real y cómo pagarla",
+      "meta_description": "Cómo verificar si una multa de tráfico del CJIB (Centraal Justitieel Incassobureau) es legítima, qué plazos tienes y qué pasa si no pagas a tiempo.",
+      "category": "documentos",
+      "published": false,
+      "published_date": null
+    },
+    {
+      "slug": "carta-gemeente",
+      "title": "Carta de la gemeente: los términos que debes conocer",
+      "meta_description": "Los términos más comunes en las cartas del ayuntamiento (gemeente) holandés: BRP, WOZ, afvalstoffenheffing y más, explicados en español.",
+      "category": "documentos",
+      "published": false,
+      "published_date": null
+    },
+    {
+      "slug": "zorgtoeslag-cak",
+      "title": "Zorgtoeslag y CAK: entender las cartas del seguro médico",
+      "meta_description": "Diferencia entre zorgtoeslag (subsidio del seguro médico) y las cartas del CAK, y qué hacer si te piden devolver dinero.",
+      "category": "documentos",
+      "published": false,
+      "published_date": null
+    },
+    {
+      "slug": "uwv-carta",
+      "title": "UWV: qué hacer si recibes una carta sobre tu desempleo o subsidio",
+      "meta_description": "Cómo entender las cartas del UWV sobre el subsidio de desempleo (WW), incapacidad laboral (WIA) y la obligación de solicitar empleo (sollicitatieplicht).",
+      "category": "documentos",
+      "published": false,
+      "published_date": null
+    },
+    {
+      "slug": "duo-cartas",
+      "title": "DUO: cartas sobre estudios y préstamos, explicadas paso a paso",
+      "meta_description": "Cómo entender las cartas del DUO sobre financiación de estudios, préstamos (studieschuld) y el examen de integración (inburgering).",
+      "category": "documentos",
+      "published": false,
+      "published_date": null
+    },
+    {
+      "slug": "carta-aseguradora",
+      "title": "Carta de tu aseguradora (auto o casa): lo esencial en holandés",
+      "meta_description": "Los términos más comunes en las cartas de seguros de auto (WA) y hogar en los Países Bajos: premie, eigen risico, no-claimkorting y más.",
+      "category": "documentos",
+      "published": false,
+      "published_date": null
+    },
+    {
+      "slug": "whatsapp-trabajo",
+      "title": "Grupo de WhatsApp del trabajo: frases holandesas que todos usan y qué significan",
+      "meta_description": "Las frases y abreviaturas más comunes en los grupos de WhatsApp del trabajo en los Países Bajos, explicadas en español.",
+      "category": "vida-diaria",
+      "published": false,
+      "published_date": null
+    },
+    {
+      "slug": "jefe-holandes",
+      "title": "Tu jefe te escribió en holandés: cómo entenderlo sin depender de un compañero",
+      "meta_description": "Cómo interpretar mensajes de tu jefe o supervisor en holandés sobre horarios, instrucciones o evaluaciones, sin depender siempre de un compañero.",
+      "category": "vida-diaria",
+      "published": false,
+      "published_date": null
+    },
+    {
+      "slug": "rooster-horario",
+      "title": "Rooster (horario de trabajo): cómo leerlo correctamente",
+      "meta_description": "Cómo leer un rooster (horario de turnos) holandés: abreviaturas de turnos, símbolos comunes y qué hacer si hay un error.",
+      "category": "vida-diaria",
+      "published": false,
+      "published_date": null
+    },
+    {
+      "slug": "vca-seguridad",
+      "title": "Mensajes de seguridad laboral (VCA) en holandés: lo que no puedes malinterpretar",
+      "meta_description": "Términos de seguridad laboral (VCA) y mensajes de instrucciones de seguridad en holandés que es importante entender bien en el trabajo.",
+      "category": "vida-diaria",
+      "published": false,
+      "published_date": null
+    },
+    {
+      "slug": "contrato-trabajo",
+      "title": "Contrato de trabajo en holandés: las cláusulas que debes entender antes de firmar",
+      "meta_description": "Términos clave de un contrato de trabajo holandés (arbeidscontract): proeftijd, uitzendcontract, fase-systeem y cláusula de no competencia.",
+      "category": "vida-diaria",
+      "published": false,
+      "published_date": null
+    },
+    {
+      "slug": "cita-medico",
+      "title": "Cómo pedir cita con el médico en holandés (y entender la respuesta)",
+      "meta_description": "Frases para pedir cita con tu huisarts (médico de cabecera) en holandés y cómo entender la respuesta de la asistente o del médico.",
+      "category": "vida-diaria",
+      "published": false,
+      "published_date": null
+    },
+    {
+      "slug": "chat-equipo-trabajo",
+      "title": "Del chat de trabajo a la claridad: así te ayuda EntiendeNL con más que cartas",
+      "meta_description": "EntiendeNL no solo explica cartas oficiales: también ayuda a entender mensajes de trabajo, grupos de chat y comunicación diaria en holandés.",
+      "category": "vida-diaria",
+      "published": false,
+      "published_date": null
+    }
+  ]
+}
