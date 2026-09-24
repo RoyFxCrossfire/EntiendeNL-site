@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "title": "Más trabajadores en Curazao pierden su empleo por reorganizaciones o conflictos laborales",
+      "summary": "En 2025, un número mayor de trabajadores en Curazao perdió su trabajo debido a reorganizaciones, recortes presupuestarios o conflictos con sus empleadores, en comparación con tres años antes. Lo más preocupante es la dificultad para reinsertarse en el mercado laboral: el 53% de quienes perdieron su empleo por estas razones seguía sin trabajo tres meses después. Esta situación afecta directamente a los migrantes hispanohablantes que residen en la isla, ya que la pérdida de empleo puede poner en riesgo su permiso de residencia o de trabajo. Es importante que los trabajadores migrantes conozcan sus derechos laborales y consulten con las autoridades competentes si enfrentan una situación de despido.",
+      "category": "curacao",
+      "source": "nu.CW",
+      "source_url": "https://nu.cw/2026/09/24/meer-werknemers-raken-baan-kwijt-door-reorganisatie-of-conflict/",
+      "date": "2026-09-24"
+    },
+    {
       "title": "Países Bajos busca que solicitantes de asilo y refugiados trabajen más rápido y en empleos acordes a su perfil",
       "summary": "El Consejo Socioeconómico (SER) de los Países Bajos recomienda que el trabajo sea el objetivo central desde que los solicitantes de asilo y refugiados llegan al país, incluyendo una evaluación temprana de sus talentos y ambiciones. Solo el 57% de los refugiados con permiso de residencia tiene empleo remunerado ocho años después de obtener su estatus, muy por debajo del promedio nacional del 73%, y muchos trabajan por debajo de su nivel de formación. El SER propone que los municipios reciban responsabilidad legal y financiamiento para orientar a los recién llegados hacia el mercado laboral, y que los horarios de integración y clases de idioma se adapten para poder combinarse con el trabajo. El gobierno quiere reducir de seis a tres meses el periodo de espera para que los solicitantes de asilo puedan trabajar, aunque esta medida aún debe ser aprobada por el Parlamento. Las personas provenientes de países considerados seguros quedarían excluidas del derecho a trabajar bajo las nuevas reglas.",
       "category": "trabajo",
@@ -231,14 +239,6 @@
       "source": "CBS",
       "source_url": "https://www.cbs.nl/nl-nl/nieuws/2026/24/twee-derde-voor-begrensd-toelaten-arbeidsmigranten",
       "date": "2026-06-08"
-    },
-    {
-      "title": "Limburgo necesita más de 2.100 plazas de vivienda para trabajadores extranjeros",
-      "summary": "Organizaciones agrícolas de Limburgo reportan una fuerte escasez de alojamiento temporal para trabajadores internacionales en el sector agrícola. Piden a los municipios incluir la vivienda para migrantes laborales en sus políticas urbanas, incluyendo opciones en terrenos agrícolas.",
-      "category": "trabajo",
-      "source": "Nieuwe Oogst",
-      "source_url": "https://www.nieuweoogst.nl/tags/arbeidsmigranten/",
-      "date": "2026-06-03"
     }
   ]
 }
