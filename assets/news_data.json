@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "title": "Países Bajos destina 20 millones anuales para ayudar a personas con deudas tempranas",
+      "summary": "El gobierno neerlandés asignará 20 millones de euros anuales de forma permanente para que los municipios puedan contactar a residentes que empiezan a acumular retrasos en el pago de alquiler, energía, agua o seguro médico. Esto es relevante para migrantes, ya que quienes tengan dificultades económicas podrían recibir ayuda proactiva de su municipio antes de caer en una deuda grave. Desde 2021, los municipios tienen la obligación de contactar a estas personas, pero hasta ahora carecían de personal suficiente para hacerlo. Con la nueva financiación estructural, se espera llegar al doble de personas mediante contacto personal en lugar de cartas. Además, arrendadores, compañías de energía y aseguradoras se comprometieron a actuar más rápido para resolver problemas de pago antes de tener que notificar al municipio.",
+      "category": "regulacion",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2632300",
+      "date": "2026-09-25"
+    },
+    {
       "title": "Más trabajadores en Curazao pierden su empleo por reorganizaciones o conflictos laborales",
       "summary": "En 2025, un número mayor de trabajadores en Curazao perdió su trabajo debido a reorganizaciones, recortes presupuestarios o conflictos con sus empleadores, en comparación con tres años antes. Lo más preocupante es la dificultad para reinsertarse en el mercado laboral: el 53% de quienes perdieron su empleo por estas razones seguía sin trabajo tres meses después. Esta situación afecta directamente a los migrantes hispanohablantes que residen en la isla, ya que la pérdida de empleo puede poner en riesgo su permiso de residencia o de trabajo. Es importante que los trabajadores migrantes conozcan sus derechos laborales y consulten con las autoridades competentes si enfrentan una situación de despido.",
       "category": "curacao",
@@ -231,14 +239,6 @@
       "source": "Rijksoverheid.nl",
       "source_url": "https://www.rijksoverheid.nl/onderwerpen/buitenlandse-werknemers/verbeteren-positie-arbeidsmigranten",
       "date": "2026-06-19"
-    },
-    {
-      "title": "Dos de cada tres neerlandeses apoyan la migración laboral, pero con límites",
-      "summary": "Según una encuesta del CBS (oficina de estadística neerlandesa), el 68% de los adultos considera que el país debería seguir aceptando trabajadores migrantes, aunque con un número máximo. Un 75% cree que la migración laboral ayuda a resolver la escasez de personal en ciertos sectores, aunque muchos también temen presión sobre la vivienda disponible.",
-      "category": "nederland",
-      "source": "CBS",
-      "source_url": "https://www.cbs.nl/nl-nl/nieuws/2026/24/twee-derde-voor-begrensd-toelaten-arbeidsmigranten",
-      "date": "2026-06-08"
     }
   ]
 }
