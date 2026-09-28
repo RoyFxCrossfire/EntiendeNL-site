@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "title": "Marshe Rondó reabre con normalidad tras retrasos en el pago de salarios a empleados",
+      "summary": "El mercado Marshe Rondó en Curazao retomó su funcionamiento habitual el lunes después de que el sábado abriera con retraso debido a problemas en el pago de salarios a los trabajadores de la Fundashon que lo gestiona. El incidente pone de manifiesto posibles irregularidades en el cumplimiento de obligaciones laborales por parte del empleador. Para los trabajadores migrantes empleados en el mercado o en instituciones similares, es importante saber que el pago puntual del salario es un derecho laboral reconocido en Curazao. En caso de retrasos reiterados, los trabajadores pueden acudir a las autoridades laborales competentes para presentar una queja o reclamación.",
+      "category": "curacao",
+      "source": "nu.CW",
+      "source_url": "https://nu.cw/2026/09/28/marshe-rondo-maandag-normaal-open-na-problemen-met-salarisbetaling/",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Control policial a repartidores en Róterdam deja 214 multas y detenciones",
+      "summary": "Una operación de control de tráfico en el puente Erasmus de Róterdam resultó en 214 multas, cinco detenciones y la confiscación de seis vehículos eléctricos. En el operativo participaron la Inspección Laboral neerlandesa (Nederlandse Arbeidsinspectie) y la Policía de Extranjería, lo que indica que también se verificó la situación migratoria y laboral de los implicados. Entre los aspectos revisados estaba si los repartidores de comida trabajaban con cuentas registradas a nombre de otras personas, una práctica irregular. Algunos conductores recibieron multas de 500 euros por exceso de ruido en el escape de sus vehículos. Este tipo de controles afecta directamente a migrantes que trabajan como repartidores, por lo que conviene asegurarse de operar con documentación propia y en regla.",
+      "category": "nederland",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2632868",
+      "date": "2026-09-28"
+    },
+    {
       "title": "Jornada de puertas abiertas en centros de asilo neerlandeses recibe 23.000 visitantes",
       "summary": "El Organismo Central de Acogida de Solicitantes de Asilo (COA) organizó su jornada anual de puertas abiertas en 160 centros de acogida de los Países Bajos, con un récord de 23.000 visitantes, frente a los 16.000 del año anterior. La iniciativa busca acercar a los vecinos a la realidad de los centros de asilo, donde los residentes comparten recursos básicos como lavadoras en condiciones de alta ocupación. Algunos centros, como el de Nuenen, son nuevos y enfrentaron resistencia local e incluso sabotaje antes de su apertura. Los solicitantes de asilo que viven en estos centros pudieron interactuar con los visitantes y mostrar su cultura. Esta apertura refleja el debate social en los Países Bajos sobre la integración y convivencia con personas en proceso de solicitud de asilo.",
       "category": "nederland",
@@ -223,22 +239,6 @@
       "source": "NOS.nl",
       "source_url": "https://nos.nl/l/2630399",
       "date": "2026-09-10"
-    },
-    {
-      "title": "Debate en el Parlamento sobre expulsión y reagrupación familiar de solicitante de asilo con múltiples antecedentes",
-      "summary": "El Parlamento neerlandés debatió el caso de un joven sirio de 18 años con 114 registros policiales que permanece en los Países Bajos y ha solicitado reagrupación familiar. Varios partidos exigen al gobierno explicaciones sobre por qué no ha sido expulsado y cómo es posible que pueda solicitar la reunificación con su familia. La secretaria de Estado respondió que, según las normas europeas, una persona sin condena penal firme tiene derecho a solicitar reagrupación familiar, y que solo tras una condena se puede investigar la retirada del permiso de residencia. Este debate es relevante para migrantes porque refleja la presión política para endurecer las condiciones de los permisos de residencia y la reagrupación familiar, y pone de manifiesto los límites que impone la legislación europea al gobierno neerlandés. El asunto continuará debatiéndose en una sesión parlamentaria el próximo jueves con el ministro de Asilo.",
-      "category": "regulacion",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2630190",
-      "date": "2026-09-09"
-    },
-    {
-      "title": "Países Bajos debate nueva ley para regular y controlar a los agentes inmobiliarios",
-      "summary": "El partido PVV ha presentado una propuesta de ley para regular la profesión de agente inmobiliario en los Países Bajos, que actualmente carece de control oficial desde 2001. La iniciativa contempla un registro nacional obligatorio, normas de conducta uniformes, supervisión externa y multas por infracciones. Para los migrantes que buscan vivienda, esto es relevante porque actualmente existen prácticas desleales como el intercambio de información confidencial entre agentes y el acceso preferente a nuevas viviendas para quienes ya tienen un agente de compra. La propuesta también busca que todas las viviendas nuevas sean publicadas al mismo tiempo para todos los interesados, sin ventajas para redes cerradas de agentes. Las organizaciones del sector y de consumidores han reaccionado positivamente, por lo que se espera apoyo en el Parlamento.",
-      "category": "regulacion",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2630215",
-      "date": "2026-09-09"
     }
   ]
 }
