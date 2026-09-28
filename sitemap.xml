@@ -61,4 +61,10 @@
     <priority>0.6</priority>
   </url>
 
+  <url>
+    <loc>https://entiendenl.com/guias/zorgtoeslag-cak.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
 </urlset>
