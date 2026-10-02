@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "title": "Nueva ley de autónomos en Países Bajos: qué cambiará a partir de 2028",
+      "summary": "El gobierno neerlandés prepara una nueva ley para definir claramente quién puede trabajar como autónomo (zzp'er), con entrada en vigor prevista para 2028. Para ser reconocido como autónomo, se requerirá inscripción en la Cámara de Comercio, número de IVA, cuenta bancaria empresarial, emisión de facturas y haber trabajado para al menos tres clientes distintos en dos años. La ley también planea obligar a los autónomos a reservar un colchón económico para pensión o incapacidad laboral, aunque los detalles aún se están negociando. Actualmente el proyecto debe pasar por el Parlamento, por lo que expertos recomiendan a quienes ya trabajan como autónomos que esperen y, ante dudas, consulten los criterios del llamado 'fallo Deliveroo' para verificar su situación. Esta normativa afecta a cualquier migrante que trabaje o planee trabajar de forma independiente en los Países Bajos.",
+      "category": "trabajo",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2633383",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "El gobierno neerlandés retoma diálogo con sindicatos sobre la seguridad social",
+      "summary": "El gabinete Jetten ha cancelado los recortes previstos en la seguridad social y retoma las negociaciones con sindicatos y empleadores tras meses de bloqueo. Los principales sindicatos FNV y CNV acudirán al encuentro en el Catshuis, donde se abordarán el futuro del seguro de desempleo (WW) y la prestación por incapacidad laboral (WIA). La WIA es especialmente relevante para trabajadores migrantes, ya que cada año unas 60.000 personas —frecuentemente jóvenes y personas con problemas de salud mental— acceden a esta prestación, con largas listas de espera para ser atendidos por médicos especialistas. Los sindicatos insisten en que es necesario actuar de forma preventiva para evitar que los trabajadores lleguen a situaciones de incapacidad prolongada. Los cambios que surjan de estas negociaciones pueden afectar directamente a los derechos laborales y las prestaciones de los trabajadores migrantes residentes en los Países Bajos.",
+      "category": "regulacion",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2633321",
+      "date": "2026-10-02"
+    },
+    {
       "title": "UWV corregirá errores en 52.000 prestaciones WIA por incapacidad laboral",
       "summary": "El organismo holandés de seguros laborales UWV ha iniciado una operación de corrección masiva tras detectar errores en el cálculo de la prestación WIA, que es el subsidio para personas que no pueden trabajar por enfermedad. Al menos 16.000 personas recibieron menos dinero del que les correspondía entre 2020 y 2024, y otras 12.000 recibieron pagos de más. Quienes cobraron de más no tendrán que devolver el dinero, según ha decidido el gobierno para evitar otro escándalo similar al de las ayudas fiscales. El UWV estima que el proceso de revisión y compensación de todos los afectados se extenderá hasta 2027, con un presupuesto reservado de 100 millones de euros. Los migrantes hispanohablantes en los Países Bajos que perciban o hayan percibido la WIA pueden verse afectados y deberían estar atentos a posibles comunicaciones del UWV sobre su caso.",
       "category": "trabajo",
@@ -222,22 +238,6 @@
       "category": "curacao",
       "source": "nu.CW",
       "source_url": "https://nu.cw/2026/09/17/me-grijpt-in-bij-grimmige-protesten-in-opheusden-tijdens-debat-over-azc/",
-      "date": "2026-09-18"
-    },
-    {
-      "title": "Disturbios en Opheusden durante debate sobre la apertura de un centro de asilo",
-      "summary": "Un grupo de aproximadamente cien personas protagonizó actos violentos frente al ayuntamiento de Opheusden, lanzando fuegos artificiales y piedras mientras el concejo municipal debatía la posible instalación de un centro de solicitantes de asilo (azc) en la localidad. La policía antidisturbios tuvo que intervenir para controlar la situación. Este tipo de protestas refleja la tensión social que generan los planes de acogida de refugiados en los Países Bajos. Para quienes están en proceso de solicitud de asilo o esperan ser asignados a un centro de acogida, estas manifestaciones pueden influir en las decisiones locales sobre la apertura de nuevas instalaciones.",
-      "category": "curacao",
-      "source": "nu.CW",
-      "source_url": "https://nu.cw/2026/09/17/me-grijpt-in-bij-grimmige-protesten-tijdens-debat-over-azc-in-opheusden/",
-      "date": "2026-09-18"
-    },
-    {
-      "title": "Tarifas de calefacción podrían dispararse en 2027 para más de 700.000 hogares en los Países Bajos",
-      "summary": "Más de 700.000 hogares conectados a redes de calefacción centralizada (warmtenet) en los Países Bajos podrían enfrentarse a facturas significativamente más altas en 2027. El aumento se debe a la fuerte subida del precio del gas, que sirve como referencia para calcular la tarifa máxima que pueden cobrar estas redes. A diferencia de los consumidores de gas convencional, los clientes de calefacción centralizada tienen menos opciones para cambiar de proveedor, lo que los hace más vulnerables a estas subidas. Los migrantes que vivan en viviendas con este tipo de conexión deben tener en cuenta este posible incremento en sus gastos fijos de cara al próximo año.",
-      "category": "curacao",
-      "source": "nu.CW",
-      "source_url": "https://nu.cw/2026/09/18/gasprijs-ruim-verdrievoudigd-ook-warmtenetklanten-dreigen-meer-te-gaan-betalen/",
       "date": "2026-09-18"
     }
   ]
