@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "title": "Las facturas de gas suben hasta un 35% en los Países Bajos: qué tipo de contrato conviene elegir",
+      "summary": "Los hogares en los Países Bajos pagarán significativamente más por el gas este otoño e invierno: el precio ha subido cerca de un 35% en los últimos meses, principalmente por la inestabilidad en Oriente Medio. Esto supone un gasto adicional de aproximadamente 500 euros anuales solo en gas para un hogar de consumo promedio. Ante esta situación, muchas personas están optando por contratos de precio fijo, que garantizan una tarifa estable durante uno o varios años y evitan sorpresas si el invierno es frío. Por primera vez, los contratos fijos a tres años resultan ligeramente más baratos que los anuales, debido a las expectativas de mayor oferta de gas licuado en los próximos años. Quienes prefieren flexibilidad pueden optar por contratos variables o dinámicos, aunque estos implican mayor riesgo si los precios continúan subiendo.",
+      "category": "trabajo",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2634409",
+      "date": "2026-10-10"
+    },
+    {
       "title": "Gobierno de Curazao anuncia medidas ante el alza del costo de vida",
       "summary": "El gabinete Pisas III presentó en conferencia de prensa una serie de medidas destinadas a aliviar el impacto del aumento del costo de vida en la población de Curazao. Estas disposiciones pueden afectar directamente a migrantes y residentes en la isla, especialmente en lo relacionado con gastos básicos como alimentación, vivienda y servicios. Aunque los detalles específicos no se mencionan en el avance, este tipo de anuncios suele incluir ajustes en subsidios, impuestos o prestaciones sociales. Se recomienda a los migrantes residentes en Curazao estar atentos a los comunicados oficiales del gobierno para conocer a qué medidas pueden acceder y bajo qué requisitos.",
       "category": "curacao",
@@ -230,14 +238,6 @@
       "category": "regulacion",
       "source": "NOS.nl",
       "source_url": "https://nos.nl/l/2632074",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "El gobierno neerlandés planea reducir la duración del subsidio de desempleo (WW) a partir de 2029",
-      "summary": "El gabinete neerlandés tiene previsto recortar el subsidio de desempleo (WW) de un máximo de dos años a uno, con entrada en vigor el 1 de enero de 2029. Esta medida afectaría principalmente a quienes llevan muchos años trabajando y cotizando, ya que las personas con historial laboral corto ya reciben el subsidio por períodos más breves. Para los migrantes con pocos años de trabajo en los Países Bajos, el impacto directo sería limitado, aunque conviene conocer los cambios. El organismo oficial de análisis económico CPB señala que el efecto de esta medida sobre el empleo sería mínimo, de apenas un 0,1%. Los sindicatos siguen oponiéndose a la reforma, considerando inaceptable que se reduzca a la mitad la duración máxima del beneficio.",
-      "category": "nederland",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2632134",
       "date": "2026-09-23"
     }
   ]
