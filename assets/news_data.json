@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "title": "Países Bajos elimina multas al IND por retrasos en solicitudes de asilo y facilita expulsiones",
+      "summary": "El Senado neerlandés aprobó por amplia mayoría dos medidas de política de asilo: la eliminación de las multas que el IND debía pagar a solicitantes de asilo cuando tardaba demasiado en resolver sus casos, y la ampliación de los criterios para declarar 'indeseable' y expulsar a solicitantes que cometan delitos con pena mínima de dos años de prisión. El año pasado el IND pagó 79 millones de euros en multas por retrasos, y en la primera mitad de este año ya había desembolsado casi 100 millones, cifra que motivó el respaldo parlamentario a esta eliminación. Ambas medidas se aprobaron como parte de la Ley de Retorno y Detención de Extranjeros, que también introduce condiciones más humanas en los centros de detención para solicitantes con resolución negativa. Esto afecta directamente a personas en proceso de asilo en los Países Bajos, ya que el IND ya no tendrá incentivo económico para agilizar sus resoluciones y los criterios de expulsión se vuelven más amplios.",
+      "category": "regulacion",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2634859",
+      "date": "2026-10-14"
+    },
+    {
       "title": "Las facturas de gas suben hasta un 35% en los Países Bajos: qué tipo de contrato conviene elegir",
       "summary": "Los hogares en los Países Bajos pagarán significativamente más por el gas este otoño e invierno: el precio ha subido cerca de un 35% en los últimos meses, principalmente por la inestabilidad en Oriente Medio. Esto supone un gasto adicional de aproximadamente 500 euros anuales solo en gas para un hogar de consumo promedio. Ante esta situación, muchas personas están optando por contratos de precio fijo, que garantizan una tarifa estable durante uno o varios años y evitan sorpresas si el invierno es frío. Por primera vez, los contratos fijos a tres años resultan ligeramente más baratos que los anuales, debido a las expectativas de mayor oferta de gas licuado en los próximos años. Quienes prefieren flexibilidad pueden optar por contratos variables o dinámicos, aunque estos implican mayor riesgo si los precios continúan subiendo.",
       "category": "trabajo",
@@ -230,14 +238,6 @@
       "category": "trabajo",
       "source": "NOS.nl",
       "source_url": "https://nos.nl/l/2632134",
-      "date": "2026-09-23"
-    },
-    {
-      "title": "Tribunal holandés bloquea nuevamente la deportación de solicitantes de asilo a Italia",
-      "summary": "Un tribunal de Utrecht ha fallado por segunda vez en contra de la expulsión de solicitantes de asilo hacia Italia, determinando que ese país aún no garantiza condiciones dignas de acogida como alojamiento, alimentación y agua potable. Los jueces consideran que los derechos fundamentales de las personas serían vulnerados si se les devuelve a Italia, independientemente de los compromisos diplomáticos firmados entre ambos países. Aunque Italia prometió en junio cumplir con el Pacto Europeo de Migración y Asilo, el tribunal estima que esa promesa no es suficiente evidencia de mejora real. Como resultado, el ministro holandés de Asilo y Migración deberá revisar individualmente los expedientes de los tres solicitantes afectados. Esta decisión es relevante para migrantes que hayan ingresado a los Países Bajos desde Italia y que puedan enfrentarse a procedimientos de devolución bajo el reglamento de Dublín.",
-      "category": "regulacion",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2632074",
       "date": "2026-09-23"
     }
   ]
