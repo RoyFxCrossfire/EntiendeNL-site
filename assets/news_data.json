@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "title": "Fallo en control de pasaportes en Schiphol causa largas esperas",
+      "summary": "Un fallo técnico en los 78 torniquetes de control electrónico de pasaportes en el aeropuerto de Schiphol dejó a todos los viajeros procedentes o con destino a países fuera del espacio Schengen sin posibilidad de usar estos dispositivos. Como consecuencia, todos los controles deben realizarse de forma manual, generando esperas de entre una hora y hora y media. Varios pasajeros perdieron sus vuelos, aunque KLM y Transavia indicaron que están tomando medidas para minimizar el impacto. La causa del fallo aún se desconoce, aunque las autoridades descartan un ciberataque.",
+      "category": "nederland",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2635450",
+      "date": "2026-10-18"
+    },
+    {
       "title": "Aqualectra alerta sobre información falsa relacionada con cortes de luz en Curazao",
       "summary": "La empresa de servicios públicos Aqualectra advierte que está circulando un mensaje falso sobre una supuesta regulación temporal de cortes de electricidad en la isla. La compañía aclara que dicha información no proviene de ellos y pide a la población que no la tome como oficial. Los residentes en Curazao, incluidos migrantes, deben verificar cualquier comunicado directamente a través de los canales oficiales de Aqualectra para evitar confusiones o posibles fraudes.",
       "category": "curacao",
@@ -230,14 +238,6 @@
       "category": "curacao",
       "source": "nu.CW",
       "source_url": "https://nu.cw/2026/09/28/marshe-rondo-maandag-normaal-open-na-problemen-met-salarisbetaling/",
-      "date": "2026-09-28"
-    },
-    {
-      "title": "Control policial a repartidores en Róterdam deja 214 multas y detenciones",
-      "summary": "Una operación de control de tráfico en el puente Erasmus de Róterdam resultó en 214 multas, cinco detenciones y la confiscación de seis vehículos eléctricos. En el operativo participaron la Inspección Laboral neerlandesa (Nederlandse Arbeidsinspectie) y la Policía de Extranjería, lo que indica que también se verificó la situación migratoria y laboral de los implicados. Entre los aspectos revisados estaba si los repartidores de comida trabajaban con cuentas registradas a nombre de otras personas, una práctica irregular. Algunos conductores recibieron multas de 500 euros por exceso de ruido en el escape de sus vehículos. Este tipo de controles afecta directamente a migrantes que trabajan como repartidores, por lo que conviene asegurarse de operar con documentación propia y en regla.",
-      "category": "nederland",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2632868",
       "date": "2026-09-28"
     }
   ]
