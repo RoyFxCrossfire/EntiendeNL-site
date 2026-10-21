@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "title": "El seguro médico obligatorio en Países Bajos subirá casi 15 euros al mes en 2027",
+      "summary": "La aseguradora DSW anunció que la prima del seguro médico básico (basisverzekering) aumentará 14,75 euros al mes en 2027, llegando a 173,25 euros mensuales. Es la mayor subida en euros registrada hasta ahora, equivalente a un incremento del 9,3%. Para los migrantes que viven y trabajan en los Países Bajos, este seguro es obligatorio, por lo que el aumento afecta directamente a su presupuesto mensual. La zorgtoeslag (subsidio para el seguro médico) también subirá, pero solo 11 euros al mes, sin compensar del todo el incremento. Las personas que no puedan pagar la prima durante más de seis meses quedan registradas en el CAK y pasan a pagar una tarifa más alta; actualmente hay 200.000 personas en esa situación en los Países Bajos.",
+      "category": "trabajo",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2636058",
+      "date": "2026-10-21"
+    },
+    {
+      "title": "Randstad reporta mayor demanda de trabajadores temporales en transporte e industria en Países Bajos",
+      "summary": "La agencia de empleo temporal Randstad registró un crecimiento en la demanda de trabajadores para fábricas, aeropuertos y centros de distribución, lo que representa más oportunidades para migrantes que buscan empleo a través de uitzendbureaus. En los Países Bajos, la demanda aumenta también como consecuencia del repunte industrial en Alemania, que genera un efecto positivo en el mercado laboral neerlandés. Randstad señala que la incertidumbre económica global lleva a las empresas a ampliar su plantilla flexible, lo que favorece la contratación de trabajadores temporales. Es importante recordar que en años recientes los Países Bajos endurecieron las reglas para trabajadores temporales, por lo que los migrantes deben verificar que sus condiciones de contratación cumplan con la normativa vigente.",
+      "category": "trabajo",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2636063",
+      "date": "2026-10-21"
+    },
+    {
       "title": "Fallo en control de pasaportes en Schiphol causa largas esperas",
       "summary": "Un fallo técnico en los 78 torniquetes de control electrónico de pasaportes en el aeropuerto de Schiphol dejó a todos los viajeros procedentes o con destino a países fuera del espacio Schengen sin posibilidad de usar estos dispositivos. Como consecuencia, todos los controles deben realizarse de forma manual, generando esperas de entre una hora y hora y media. Varios pasajeros perdieron sus vuelos, aunque KLM y Transavia indicaron que están tomando medidas para minimizar el impacto. La causa del fallo aún se desconoce, aunque las autoridades descartan un ciberataque.",
       "category": "nederland",
@@ -223,22 +239,6 @@
       "source": "Europa.eu",
       "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2002",
       "date": "2026-09-29"
-    },
-    {
-      "title": "La Comisión Europea propone un plan de cinco puntos para reforzar las fronteras exteriores de la UE",
-      "summary": "La Comisión Europea ha presentado un plan de cinco medidas destinado a fortalecer la seguridad y la resiliencia de las fronteras exteriores de la Unión Europea. Esta iniciativa puede tener consecuencias directas para las personas migrantes que desean entrar o residir en países de la UE, incluidos los Países Bajos. Los cambios en la política fronteriza europea suelen traducirse en nuevos requisitos o procedimientos para quienes solicitan permisos de entrada, asilo o residencia. Los migrantes hispanohablantes en los Países Bajos deben estar atentos a posibles modificaciones en los trámites de la IND o en las condiciones de entrada al espacio Schengen. Se recomienda seguir las novedades legislativas de cerca, ya que las propuestas de la Comisión pueden convertirse en normativa aplicable en un plazo relativamente corto.",
-      "category": "europa",
-      "source": "Europa.eu",
-      "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2003",
-      "date": "2026-09-29"
-    },
-    {
-      "title": "Marshe Rondó reabre con normalidad tras retrasos en el pago de salarios a empleados",
-      "summary": "El mercado Marshe Rondó en Curazao retomó su funcionamiento habitual el lunes después de que el sábado abriera con retraso debido a problemas en el pago de salarios a los trabajadores de la Fundashon que lo gestiona. El incidente pone de manifiesto posibles irregularidades en el cumplimiento de obligaciones laborales por parte del empleador. Para los trabajadores migrantes empleados en el mercado o en instituciones similares, es importante saber que el pago puntual del salario es un derecho laboral reconocido en Curazao. En caso de retrasos reiterados, los trabajadores pueden acudir a las autoridades laborales competentes para presentar una queja o reclamación.",
-      "category": "curacao",
-      "source": "nu.CW",
-      "source_url": "https://nu.cw/2026/09/28/marshe-rondo-maandag-normaal-open-na-problemen-met-salarisbetaling/",
-      "date": "2026-09-28"
     }
   ]
 }
