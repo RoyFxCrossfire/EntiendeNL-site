@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "title": "Precios de vivienda en Curazao bajan levemente, pero comprar sigue siendo caro",
+      "summary": "Los precios de las viviendas en venta registraron una ligera caída en septiembre en comparación con agosto, aunque el mercado inmobiliario sigue siendo costoso para quienes desean comprar. El número de casas vendidas también disminuyó durante ese período. Para los migrantes que consideran establecerse de forma permanente en Curazao, esto significa que adquirir una propiedad sigue siendo un desafío económico significativo. Quienes planean instalarse en la isla deben tener en cuenta que el acceso a la vivienda propia continúa siendo limitado a pesar de la leve corrección de precios.",
+      "category": "curacao",
+      "source": "nu.CW",
+      "source_url": "https://nu.cw/2026/10/22/huizenprijzen-dalen-weer-een-beetje-maar-kopen-blijft-duur/",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Seguro de salud municipal para bajos ingresos: qué es y cómo podría afectar a migrantes en Países Bajos",
+      "summary": "En los Países Bajos existe una póliza de salud municipal (gemeentepolis) que complementa el seguro básico obligatorio y está dirigida a personas con bajos ingresos; el municipio cubre parte de la prima. Actualmente, 580.000 personas se benefician de esta póliza, pero unas 90.000 más no tienen acceso a ella porque viven en uno de los 34 municipios que no la ofrecen. Para los migrantes con ingresos bajos, esta diferencia es importante: sin la gemeentepolis, gastos como dentista o fisioterapia quedan fuera de cobertura y deben pagarse de bolsillo. La aseguradora VGZ ha pedido a esos 34 municipios que reconsideren ofrecer la póliza, y otras aseguradoras como CZ y Menzis apoyan la iniciativa. Si vives en un municipio que sí la ofrece, conviene consultar en tu ayuntamiento si cumples los requisitos de ingresos para solicitarla.",
+      "category": "trabajo",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2636107",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Aumentan los autónomos en Países Bajos: claves para migrantes que trabajan como zzp'er",
+      "summary": "El número de nuevas empresas en los Países Bajos creció más de un 15% en el tercer trimestre del año, y más de 8 de cada 10 son trabajadores autónomos sin personal (zzp'ers). El aumento es especialmente notable en sectores como educación, construcción y salud, donde muchos migrantes encuentran empleo. Esto ocurre a pesar de las nuevas reglas contra la 'falsa autonomía' (schijnzelfstandigheid), que la autoridad fiscal neerlandesa comenzó a aplicar activamente desde enero de 2025. Quienes trabajen como zzp'ers deben asegurarse de que su situación laboral real coincida con su figura legal, ya que trabajar de facto como empleado bajo contrato de autónomo puede tener consecuencias fiscales y laborales. El gobierno planea una nueva Ley de Autónomos (Zelfstandigenwet) para 2028 que busca dar mayor claridad sobre las condiciones en que se puede trabajar de forma independiente.",
+      "category": "trabajo",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2636162",
+      "date": "2026-10-22"
+    },
+    {
       "title": "El seguro médico obligatorio en Países Bajos subirá casi 15 euros al mes en 2027",
       "summary": "La aseguradora DSW anunció que la prima del seguro médico básico (basisverzekering) aumentará 14,75 euros al mes en 2027, llegando a 173,25 euros mensuales. Es la mayor subida en euros registrada hasta ahora, equivalente a un incremento del 9,3%. Para los migrantes que viven y trabajan en los Países Bajos, este seguro es obligatorio, por lo que el aumento afecta directamente a su presupuesto mensual. La zorgtoeslag (subsidio para el seguro médico) también subirá, pero solo 11 euros al mes, sin compensar del todo el incremento. Las personas que no puedan pagar la prima durante más de seis meses quedan registradas en el CAK y pasan a pagar una tarifa más alta; actualmente hay 200.000 personas en esa situación en los Países Bajos.",
       "category": "trabajo",
@@ -215,30 +239,6 @@
       "source": "NOS.nl",
       "source_url": "https://nos.nl/l/2632999",
       "date": "2026-09-30"
-    },
-    {
-      "title": "El seguro médico obligatorio en Países Bajos subirá a 400 euros en 2026",
-      "summary": "El propio riesgo (eigen risico) del seguro médico en los Países Bajos aumentará 15 euros, pasando de 385 a 400 euros al año, y el Parlamento no lo impedirá. Esto significa que, a partir de 2026, cada persona asegurada deberá pagar hasta 400 euros de su bolsillo antes de que el seguro cubra los gastos médicos. Además, se retoma la indexación anual, por lo que este monto seguirá subiendo cada año junto con los costes sanitarios. Las aseguradoras deberán anunciar sus nuevas primas antes del 12 de noviembre, por lo que los residentes podrán comparar opciones durante el período de cambio de seguro a finales de año. Este cambio afecta a todas las personas que viven y trabajan en los Países Bajos, incluidos los migrantes con seguro médico obligatorio.",
-      "category": "regulacion",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2633016",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "Disturbios en Arnhem involucran a jóvenes solicitantes de asilo con procedimientos vencidos",
-      "summary": "Ocho personas fueron detenidas tras una pelea masiva en el centro de Arnhem, en la que resultaron tres heridos, uno de ellos menor de edad con heridas graves. El alcalde de Arnhem señaló que el grupo involucrado está compuesto principalmente por jóvenes solicitantes de asilo sirios, varios de los cuales ya tienen sus procedimientos de asilo cerrados negativamente y no deberían estar en el país. Este incidente reaviva el debate sobre la lentitud en la ejecución de las órdenes de expulsión y la falta de integración para quienes sí tienen derecho a quedarse. El alcalde hizo un llamado urgente al gobierno nacional para agilizar tanto los procesos de integración como las deportaciones, según cada caso. Para migrantes en proceso de asilo o con permisos pendientes, este tipo de eventos puede influir en el debate político y en las políticas del IND a corto plazo.",
-      "category": "nederland",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2633126",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "La UE propone un plan para reforzar el control de sus fronteras exteriores",
-      "summary": "La Comisión Europea presentó un plan de cinco puntos destinado a prevenir y gestionar llegadas masivas e irregulares a la Unión Europea. La propuesta busca fortalecer la seguridad en las fronteras exteriores del bloque, lo que podría afectar las rutas y condiciones de entrada para personas migrantes. Este tipo de medidas suelen traducirse en controles más estrictos y procedimientos de admisión más rigurosos en los países miembros, incluidos los Países Bajos. Los migrantes hispanohablantes que planeen viajar o trasladarse a territorio europeo deben estar atentos a los cambios regulatorios que deriven de esta iniciativa.",
-      "category": "europa",
-      "source": "Europa.eu",
-      "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2002",
-      "date": "2026-09-29"
     }
   ]
 }
