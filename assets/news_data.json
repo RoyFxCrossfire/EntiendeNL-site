@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "title": "Premier de Curazao pide una semana más para responder preguntas sobre el Landspakket",
+      "summary": "El primer ministro Gilmar 'Pik' Pisas (MFK) solicitó al parlamento de Curazao una semana adicional para responder preguntas relacionadas con el Landspakket, el paquete de medidas acordado con los Países Bajos. El Landspakket incluye condiciones y reformas en áreas como finanzas públicas, salud, educación y administración, que afectan directamente la situación económica y de servicios en la isla. Para los migrantes y residentes en Curazao, los avances o retrasos en la implementación de este paquete pueden tener consecuencias en servicios públicos, empleo y el entorno legal en el que viven. El aplazamiento indica que el debate político sobre estas reformas sigue abierto y podría generar cambios en las políticas locales en los próximos meses.",
+      "category": "curacao",
+      "source": "nu.CW",
+      "source_url": "https://nu.cw/2026/10/22/premier-pisas-vraagt-week-uitstel-voor-antwoorden-over-landspakket/",
+      "date": "2026-10-23"
+    },
+    {
       "title": "Precios de vivienda en Curazao bajan levemente, pero comprar sigue siendo caro",
       "summary": "Los precios de las viviendas en venta registraron una ligera caída en septiembre en comparación con agosto, aunque el mercado inmobiliario sigue siendo costoso para quienes desean comprar. El número de casas vendidas también disminuyó durante ese período. Para los migrantes que consideran establecerse de forma permanente en Curazao, esto significa que adquirir una propiedad sigue siendo un desafío económico significativo. Quienes planean instalarse en la isla deben tener en cuenta que el acceso a la vivienda propia continúa siendo limitado a pesar de la leve corrección de precios.",
       "category": "curacao",
@@ -230,14 +238,6 @@
       "category": "trabajo",
       "source": "NOS.nl",
       "source_url": "https://nos.nl/l/2632998",
-      "date": "2026-09-30"
-    },
-    {
-      "title": "Países Bajos cancela recortes a la seguridad social y sindicatos suspenden huelgas",
-      "summary": "El gobierno neerlandés ha descartado definitivamente los recortes previstos a la seguridad social, incluyendo la reducción del seguro de desempleo (WW) a un máximo de un año, lo cual es una buena noticia para trabajadores migrantes que dependen de estas prestaciones en caso de enfermedad o desempleo. Los principales sindicatos FNV, CNV y VCP, que habían convocado huelgas en el transporte público y otros sectores, han suspendido todas las acciones de protesta tras este anuncio. Además, el gobierno planea introducir desde 2028 un impuesto sobre las ganancias de capital (vermogenswinstbelasting) que afectará a más ahorradores e inversores que el sistema actual. El umbral de rendimiento exento de impuestos bajará de 1.800 a 1.000 euros, por lo que quienes tengan ahorros o inversiones en los Países Bajos podrían verse afectados antes. Estos cambios forman parte de negociaciones presupuestarias del gabinete minoritario con partidos de la oposición para obtener mayorías parlamentarias.",
-      "category": "regulacion",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2632999",
       "date": "2026-09-30"
     }
   ]
