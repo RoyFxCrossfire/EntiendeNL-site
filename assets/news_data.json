@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "title": "Los precios de energía en Curazao siguen subiendo y el panorama para 2027 es poco alentador",
+      "summary": "El costo de un contrato de energía de un año en Curazao ha aumentado alrededor de 1.100 florines en apenas diez meses. Un hogar con consumo promedio paga actualmente más de 2.700 florines al año en facturas de energía. Las perspectivas para el próximo año no son favorables, ya que se espera que los precios continúen al alza. Esto representa un gasto importante a considerar para los migrantes que planean instalarse o que ya viven en la isla, ya que el costo de vida se ve directamente afectado.",
+      "category": "curacao",
+      "source": "nu.CW",
+      "source_url": "https://nu.cw/2026/10/24/energieprijzen-blijven-maar-stijgen-en-ook-voor-volgend-jaar-ziet-het-er-somber-uit/",
+      "date": "2026-10-24"
+    },
+    {
       "title": "Premier de Curazao pide una semana más para responder preguntas sobre el Landspakket",
       "summary": "El primer ministro Gilmar 'Pik' Pisas (MFK) solicitó al parlamento de Curazao una semana adicional para responder preguntas relacionadas con el Landspakket, el paquete de medidas acordado con los Países Bajos. El Landspakket incluye condiciones y reformas en áreas como finanzas públicas, salud, educación y administración, que afectan directamente la situación económica y de servicios en la isla. Para los migrantes y residentes en Curazao, los avances o retrasos en la implementación de este paquete pueden tener consecuencias en servicios públicos, empleo y el entorno legal en el que viven. El aplazamiento indica que el debate político sobre estas reformas sigue abierto y podría generar cambios en las políticas locales en los próximos meses.",
       "category": "curacao",
@@ -231,14 +239,6 @@
       "source": "NOS.nl",
       "source_url": "https://nos.nl/l/2633267",
       "date": "2026-10-01"
-    },
-    {
-      "title": "Fondo de emergencia energética en Países Bajos abre el 4 de enero: quién puede solicitarlo",
-      "summary": "El Noodfonds Energie (Fondo de Emergencia Energética) abre una nueva ronda el 4 de enero y acepta solicitudes hasta el 7 de mayo de 2026. Pueden pedirlo hogares con ingresos brutos de hasta el 130% del salario mínimo social que gasten más del 8% de sus ingresos en energía, o hasta el 200% si destinan más del 10%. Este año hay 193 millones de euros disponibles, más del triple que el año pasado, y se espera beneficiar a unos 500.000 hogares. A diferencia de ediciones anteriores, ahora es posible presentar la solicitud en papel, no solo de forma digital, y hay cuatro meses para hacerlo. El fondo cubre la mitad del gasto energético que supere los límites mencionados, con un pago promedio estimado de 360 euros por hogar.",
-      "category": "trabajo",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2632998",
-      "date": "2026-09-30"
     }
   ]
 }
