@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "title": "El gobierno neerlandés planea reducir personal del IND y otras agencias clave para migrantes",
+      "summary": "El gabinete neerlandés tiene previsto eliminar alrededor de 25.000 puestos de funcionarios públicos para 2035, lo que equivale a un 16% de la plantilla total del gobierno central. Aunque la policía y defensa quedan exentas, organismos como el IND (servicio de inmigración), el UWV (agencia de empleo) y la Agencia Tributaria no están protegidos de los recortes. El secretario de Estado Van der Burg sostiene que estas instituciones podrán funcionar con menos personal si se simplifican o eliminan trámites y normativas. Para los migrantes hispanohablantes esto es relevante, ya que una reducción de personal en el IND podría traducirse en tiempos de espera más largos para la resolución de solicitudes de permisos de residencia y trabajo. En los próximos seis meses se espera que el gobierno concrete qué áreas específicas serán afectadas.",
+      "category": "regulacion",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2636722",
+      "date": "2026-10-26"
+    },
+    {
       "title": "Los precios de energía en Curazao siguen subiendo y el panorama para 2027 es poco alentador",
       "summary": "El costo de un contrato de energía de un año en Curazao ha aumentado alrededor de 1.100 florines en apenas diez meses. Un hogar con consumo promedio paga actualmente más de 2.700 florines al año en facturas de energía. Las perspectivas para el próximo año no son favorables, ya que se espera que los precios continúen al alza. Esto representa un gasto importante a considerar para los migrantes que planean instalarse o que ya viven en la isla, ya que el costo de vida se ve directamente afectado.",
       "category": "curacao",
@@ -230,14 +238,6 @@
       "category": "regulacion",
       "source": "NOS.nl",
       "source_url": "https://nos.nl/l/2633216",
-      "date": "2026-10-01"
-    },
-    {
-      "title": "Multan con 700.000 euros a empresas de limpieza por pagar en efectivo y contratar sin permiso de trabajo",
-      "summary": "La Inspección Laboral de los Países Bajos ha multado a dos empresas de limpieza con sedes en Ámsterdam y Zaandam con un total de 700.000 euros por pagar salarios en efectivo fuera de los registros oficiales. Durante las inspecciones se encontraron sobres con dinero en efectivo en un hotel, y decenas de trabajadores no podían demostrar estar dados de alta como empleados, lo que impide verificar si cobraban el salario mínimo legal. Diecisiete trabajadores resultaron estar laborando sin permiso de trabajo, lo que constituye una violación de la Ley de Trabajo para Extranjeros (Wet arbeid vreemdelingen). La investigación continúa y se extiende también a una cadena hotelera y a un contador vinculados a los hechos. Este caso es un recordatorio para migrantes de que trabajar sin contrato formal o sin permiso de trabajo puede tener consecuencias legales graves tanto para el empleador como para el trabajador.",
-      "category": "nederland",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2633267",
       "date": "2026-10-01"
     }
   ]
