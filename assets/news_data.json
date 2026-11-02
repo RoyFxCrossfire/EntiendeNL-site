@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "title": "Cambios en la pensión de supervivencia en Países Bajos: lo que debes saber",
+      "summary": "El regulador financiero neerlandés AFM advierte que muchas personas no están correctamente cubiertas por la pensión de supervivencia (nabestaandenpensioen) sin saberlo, lo que genera situaciones graves cuando un familiar fallece. Un problema frecuente es no haber registrado al cónyuge o pareja ante el fondo de pensiones antes del fallecimiento, requisito indispensable para tener derecho al beneficio. Con la transición al nuevo sistema de pensiones en los Países Bajos, las reglas cambian: la cobertura ya no se acumula como antes, sino que funciona como un seguro que puede cancelarse al dejar un empleo. Para migrantes que trabajan en los Países Bajos y cotizan a un fondo de pensiones, es importante verificar activamente con su pensioenuitvoerder que su pareja esté registrada y que la cobertura sea suficiente. La AFM exige a los fondos de pensiones que informen de manera más clara y proactiva a sus participantes sobre estos cambios.",
+      "category": "trabajo",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2637703",
+      "date": "2026-11-02"
+    },
+    {
+      "title": "Nuevo acuerdo en Países Bajos para ayudar más rápido a personas con deudas",
+      "summary": "En los Países Bajos, cinco grandes despachos de alguaciles (deurwaarders) firmaron un acuerdo con la asociación de ayuda financiera NVVK para que las personas con deudas reciban asistencia antes de que se les embarguen el salario, la cuenta bancaria o sus bienes. A partir de ahora, cuando alguien acuda a un servicio de ayuda a deudores, los alguaciles pausarán automáticamente cualquier embargo en curso mientras se analiza la situación financiera. Esto es especialmente relevante para migrantes, quienes pueden enfrentar deudas y no siempre conocen sus derechos ante un alguacil. En los Países Bajos hay actualmente 724.000 personas con deudas problemáticas, con una deuda media de 40.000 euros y unos 12 o 13 acreedores. Además, el Gobierno destinará 20 millones de euros anuales para apoyar a quienes estén en riesgo de endeudarse.",
+      "category": "trabajo",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2637747",
+      "date": "2026-11-02"
+    },
+    {
       "title": "La migración sigue siendo el único motor del crecimiento poblacional en los Países Bajos, pero las cifras bajan",
       "summary": "Durante los primeros tres trimestres de 2026, la población de los Países Bajos creció únicamente gracias a la migración, ya que el crecimiento natural (nacimientos menos defunciones) no aportó al aumento demográfico. Sin embargo, el número de migrantes que se establecieron en el país también disminuyó en comparación con períodos anteriores. Esta tendencia puede reflejar cambios en las políticas migratorias o una menor llegada de nuevos residentes extranjeros. Para los migrantes hispanohablantes, este contexto es relevante porque puede influir en futuras decisiones políticas sobre permisos de residencia y acceso al mercado laboral en los Países Bajos.",
       "category": "curacao",
@@ -223,22 +239,6 @@
       "source": "NOS.nl",
       "source_url": "https://nos.nl/l/2635157",
       "date": "2026-10-16"
-    },
-    {
-      "title": "Países Bajos elimina multas al IND por retrasos en solicitudes de asilo y facilita expulsiones",
-      "summary": "El Senado neerlandés aprobó por amplia mayoría dos medidas de política de asilo: la eliminación de las multas que el IND debía pagar a solicitantes de asilo cuando tardaba demasiado en resolver sus casos, y la ampliación de los criterios para declarar 'indeseable' y expulsar a solicitantes que cometan delitos con pena mínima de dos años de prisión. El año pasado el IND pagó 79 millones de euros en multas por retrasos, y en la primera mitad de este año ya había desembolsado casi 100 millones, cifra que motivó el respaldo parlamentario a esta eliminación. Ambas medidas se aprobaron como parte de la Ley de Retorno y Detención de Extranjeros, que también introduce condiciones más humanas en los centros de detención para solicitantes con resolución negativa. Esto afecta directamente a personas en proceso de asilo en los Países Bajos, ya que el IND ya no tendrá incentivo económico para agilizar sus resoluciones y los criterios de expulsión se vuelven más amplios.",
-      "category": "regulacion",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2634859",
-      "date": "2026-10-14"
-    },
-    {
-      "title": "Las facturas de gas suben hasta un 35% en los Países Bajos: qué tipo de contrato conviene elegir",
-      "summary": "Los hogares en los Países Bajos pagarán significativamente más por el gas este otoño e invierno: el precio ha subido cerca de un 35% en los últimos meses, principalmente por la inestabilidad en Oriente Medio. Esto supone un gasto adicional de aproximadamente 500 euros anuales solo en gas para un hogar de consumo promedio. Ante esta situación, muchas personas están optando por contratos de precio fijo, que garantizan una tarifa estable durante uno o varios años y evitan sorpresas si el invierno es frío. Por primera vez, los contratos fijos a tres años resultan ligeramente más baratos que los anuales, debido a las expectativas de mayor oferta de gas licuado en los próximos años. Quienes prefieren flexibilidad pueden optar por contratos variables o dinámicos, aunque estos implican mayor riesgo si los precios continúan subiendo.",
-      "category": "trabajo",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2634409",
-      "date": "2026-10-10"
     }
   ]
 }
