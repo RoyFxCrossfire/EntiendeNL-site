@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "title": "Solo dos farmacias abiertas en Curazao por turno rotativo de farmacéuticos",
+      "summary": "La Asociación de Farmacéuticos de Curazao (VAE) anunció que las farmacias (boticas) están operando bajo un sistema de turnos rotativos, lo que significa que solo dos establecimientos permanecen abiertos en un día determinado. Esta medida fue anunciada el martes como respuesta a una situación que obligó al gremio a tomar acciones colectivas. Para los residentes y migrantes en la isla, esto implica que antes de acudir a una farmacia deben verificar cuál está de turno ese día. Se recomienda estar atento a los comunicados de la VAE para conocer qué botica estará disponible en cada jornada.",
+      "category": "curacao",
+      "source": "nu.CW",
+      "source_url": "https://nu.cw/2026/11/04/apotheken-werken-via-dienstrooster-slechts-twee-boticas-geopend/",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "ING abre sucursales bancarias en Saba y Sint-Eustatius a partir del 24 de noviembre",
+      "summary": "El banco ING abrirá oficinas en Sint-Eustatius el 24 de noviembre y en Saba el 26 de noviembre, lo que permitirá a los residentes de estas islas de los Países Bajos del Caribe acceder por primera vez en años a servicios de un banco neerlandés. Los habitantes y empresarios podrán abrir una cuenta corriente, solicitar una tarjeta de débito y usar la banca digital. Hasta ahora, la falta de bancos locales obligaba a los residentes a recurrir a entidades extranjeras, una situación complicada especialmente para migrantes y nuevos residentes. ING indica que ha cumplido con toda la normativa necesaria para operar en estas islas, que aunque son municipios especiales de los Países Bajos, no forman parte del Espacio Económico Europeo y usan el dólar estadounidense.",
+      "category": "trabajo",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2637972",
+      "date": "2026-11-04"
+    },
+    {
       "title": "Futbolistas surinameses-neerlandeses siguen perdiendo la nacionalidad holandesa pese a cambio de ley",
       "summary": "Varios futbolistas con doble vínculo surinamés-neerlandés han perdido automáticamente la nacionalidad holandesa al adquirir otra nacionalidad para jugar con selecciones como Surinam o Indonesia, según la ley neerlandesa de nacionalidad. Surinam aprobó en septiembre una ley para otorgar 'de pleno derecho' la nacionalidad surinamesa a deportistas de la diáspora, con la esperanza de que esto evitara la pérdida del pasaporte holandés. Sin embargo, el Ministerio de Justicia neerlandés aclaró que la IND evaluará cada caso individualmente y que obtener otra nacionalidad 'de pleno derecho' no es suficiente para quedar exento de perder el Nederlanderschap. Quienes ya perdieron la nacionalidad holandesa deben iniciar un proceso legal para recuperarla, que puede tardar hasta un año, y mientras tanto necesitan un permiso de residencia para seguir viviendo en los Países Bajos. Esta situación es relevante para migrantes hispanohablantes con doble nacionalidad en los Países Bajos, ya que ilustra cómo adquirir voluntariamente otra nacionalidad puede conllevar la pérdida automática de la residencia legal basada en el pasaporte neerlandés.",
       "category": "regulacion",
@@ -222,22 +238,6 @@
       "category": "curacao",
       "source": "nu.CW",
       "source_url": "https://nu.cw/2026/10/16/arbeidsuitbuiting-neemt-toe-aanpak-blijft-lastig-strafketen-moet-lat-verlagen/",
-      "date": "2026-10-16"
-    },
-    {
-      "title": "La Comisión Europea presenta nueva estrategia contra la trata de personas",
-      "summary": "La Comisión Europea ha presentado una nueva estrategia para combatir la trata de seres humanos, un fenómeno que afecta de manera desproporcionada a personas migrantes y en situación de vulnerabilidad. Esta iniciativa puede tener implicaciones directas para residentes en los Países Bajos, ya que la UE busca coordinar medidas entre los Estados miembros para identificar y proteger a víctimas. La estrategia podría traducirse en cambios en los procedimientos de detección y asistencia a víctimas dentro del territorio neerlandés. Los migrantes hispanohablantes deben estar informados sobre sus derechos y los mecanismos de protección disponibles en caso de encontrarse en situaciones de explotación laboral o sexual.",
-      "category": "europa",
-      "source": "Europa.eu",
-      "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2189",
-      "date": "2026-10-16"
-    },
-    {
-      "title": "Partidos holandeses exigen revisar estatus de sirios y endurecer política de asilo",
-      "summary": "Los partidos JA21 y SGP han condicionado su apoyo al plan presupuestario del gobierno neerlandés a la adopción de medidas migratorias más estrictas. Entre sus exigencias destacan la revisión del permiso de residencia temporal de decenas de miles de sirios, con posible obligación de retorno si se considera que partes de Siria son seguras. También piden que los procedimientos de asilo se realicen fuera de los Países Bajos y que se reduzca el número de solicitantes de asilo que llegan al país. El ministro de Asilo y Migración, Van den Brink, ha indicado que estas demandas no son insuperables y que ya trabaja en varias de ellas. Estas negociaciones pueden tener consecuencias directas para personas con estatus de protección temporal o que tienen procedimientos de asilo en curso en los Países Bajos.",
-      "category": "regulacion",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2635102",
       "date": "2026-10-16"
     }
   ]
