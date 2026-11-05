@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "title": "Curazao desarrolla una estrategia energética nacional hasta 2050",
+      "summary": "El gobierno de Curazao ha iniciado el desarrollo de una estrategia energética nacional con miras al año 2050. El plan busca mejorar el suministro de energía en la isla con un enfoque en confiabilidad, asequibilidad y sostenibilidad. Para los migrantes y residentes en Curazao, esto puede tener impacto directo en el costo y la calidad del servicio eléctrico en sus hogares y lugares de trabajo. Aunque es un plan a largo plazo, las decisiones que se tomen en esta etapa de planificación podrían afectar las tarifas y la infraestructura energética en los próximos años.",
+      "category": "curacao",
+      "source": "nu.CW",
+      "source_url": "https://nu.cw/2026/11/05/curacao-werkt-aan-nationale-energiestrategie-richting-2050/",
+      "date": "2026-11-05"
+    },
+    {
       "title": "Solo dos farmacias abiertas en Curazao por turno rotativo de farmacéuticos",
       "summary": "La Asociación de Farmacéuticos de Curazao (VAE) anunció que las farmacias (boticas) están operando bajo un sistema de turnos rotativos, lo que significa que solo dos establecimientos permanecen abiertos en un día determinado. Esta medida fue anunciada el martes como respuesta a una situación que obligó al gremio a tomar acciones colectivas. Para los residentes y migrantes en la isla, esto implica que antes de acudir a una farmacia deben verificar cuál está de turno ese día. Se recomienda estar atento a los comunicados de la VAE para conocer qué botica estará disponible en cada jornada.",
       "category": "curacao",
@@ -230,14 +238,6 @@
       "category": "curacao",
       "source": "nu.CW",
       "source_url": "https://nu.cw/2026/10/15/aqualectra-waarschuwt-voor-valse-informatie-over-stroomonderbrekingen/",
-      "date": "2026-10-16"
-    },
-    {
-      "title": "Aumentan los reportes de explotación laboral en Países Bajos y piden medidas más firmes",
-      "summary": "Los reportes de explotación laboral en los Países Bajos crecieron un 13% el último año, según la Relatora Nacional Conny Rijken. La experta señala que el sistema judicial tiene un umbral demasiado alto para procesar estos casos, lo que dificulta que los responsables enfrenten consecuencias legales. Este problema afecta especialmente a trabajadores migrantes, quienes son más vulnerables a condiciones abusivas de empleo. Rijken pide rebajar ese umbral para que más casos de explotación puedan ser investigados y sancionados efectivamente.",
-      "category": "curacao",
-      "source": "nu.CW",
-      "source_url": "https://nu.cw/2026/10/16/arbeidsuitbuiting-neemt-toe-aanpak-blijft-lastig-strafketen-moet-lat-verlagen/",
       "date": "2026-10-16"
     }
   ]
