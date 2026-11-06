@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "title": "Curazao advierte sobre posibles cortes de luz durante varios días",
+      "summary": "Las autoridades de Curazao han informado que el suministro eléctrico de la isla será inestable desde el jueves hasta el domingo. Las horas de la noche son el período de mayor riesgo para los cortes de electricidad. Residentes y migrantes que viven en la isla deben estar preparados para interrupciones en el servicio durante esos días. Se recomienda tomar precauciones, especialmente si se depende de equipos eléctricos esenciales en el hogar o el trabajo.",
+      "category": "curacao",
+      "source": "nu.CW",
+      "source_url": "https://nu.cw/2026/11/06/curacao-moet-opnieuw-rekening-houden-met-stroomuitval/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Curazao retrasa la presentación de su nueva política energética hasta principios de 2027",
+      "summary": "El primer ministro de Curazao, Gilmar 'Pik' Pisas, ha anunciado que la presentación del nuevo plan de política energética del gobierno queda aplazada hasta comienzos del próximo año. La notificación fue comunicada oficialmente mediante una carta dirigida al presidente del Parlamento, Fergino Brownbill. Este retraso puede afectar a residentes y migrantes en la isla que esperaban conocer los cambios previstos en materia de energía, un servicio básico que incide directamente en el costo de vida y en las condiciones de vivienda y trabajo en Curazao.",
+      "category": "curacao",
+      "source": "nu.CW",
+      "source_url": "https://nu.cw/2026/11/06/energiebeleid-de-regering-moet-nog-even-schakelen/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "La UE activa su nuevo ciclo anual de gestión migratoria bajo el Pacto de Migración y Asilo",
+      "summary": "La Comisión Europea ha puesto en marcha el segundo ciclo anual de gestión migratoria, un mecanismo obligatorio y permanente establecido por el Pacto de Migración y Asilo de la UE. Este sistema busca coordinar la solidaridad entre los Estados miembros, incluyendo los Países Bajos, en materia de acogida y distribución de solicitantes de asilo y migrantes. El informe anual evalúa las necesidades de cada país y puede influir en las cuotas de reubicación y en los recursos disponibles para gestionar flujos migratorios. Para los migrantes hispanohablantes que residen o planean residir en los Países Bajos, este marco europeo puede afectar los procedimientos de asilo, los tiempos de tramitación y las políticas de acogida a nivel nacional.",
+      "category": "europa",
+      "source": "Europa.eu",
+      "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_2366",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "La UE lanza su segundo ciclo anual de gestión migratoria bajo el Pacto de Migración y Asilo",
+      "summary": "La Comisión Europea ha puesto en marcha el segundo ciclo anual de gestión migratoria, un mecanismo clave del Pacto de Migración y Asilo de la UE. Este ciclo establece cómo los países miembros, incluidos los Países Bajos, deben coordinar y planificar la gestión de flujos migratorios y el reparto de responsabilidades en materia de asilo. Las decisiones tomadas en este marco pueden influir directamente en las políticas de admisión, procesamiento de solicitudes de asilo y distribución de migrantes entre estados miembros. Para personas migrantes hispanohablantes residentes o que deseen establecerse en los Países Bajos, estos cambios pueden afectar los procedimientos del IND y los tiempos de resolución de solicitudes. Es recomendable estar atentos a cómo el Gobierno neerlandés implemente las directrices que surjan de este ciclo europeo.",
+      "category": "europa",
+      "source": "Europa.eu",
+      "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2368",
+      "date": "2026-11-06"
+    },
+    {
       "title": "Curazao desarrolla una estrategia energética nacional hasta 2050",
       "summary": "El gobierno de Curazao ha iniciado el desarrollo de una estrategia energética nacional con miras al año 2050. El plan busca mejorar el suministro de energía en la isla con un enfoque en confiabilidad, asequibilidad y sostenibilidad. Para los migrantes y residentes en Curazao, esto puede tener impacto directo en el costo y la calidad del servicio eléctrico en sus hogares y lugares de trabajo. Aunque es un plan a largo plazo, las decisiones que se tomen en esta etapa de planificación podrían afectar las tarifas y la infraestructura energética en los próximos años.",
       "category": "curacao",
@@ -207,38 +239,6 @@
       "source": "NOS.nl",
       "source_url": "https://nos.nl/l/2636162",
       "date": "2026-10-22"
-    },
-    {
-      "title": "El seguro médico obligatorio en Países Bajos subirá casi 15 euros al mes en 2027",
-      "summary": "La aseguradora DSW anunció que la prima del seguro médico básico (basisverzekering) aumentará 14,75 euros al mes en 2027, llegando a 173,25 euros mensuales. Es la mayor subida en euros registrada hasta ahora, equivalente a un incremento del 9,3%. Para los migrantes que viven y trabajan en los Países Bajos, este seguro es obligatorio, por lo que el aumento afecta directamente a su presupuesto mensual. La zorgtoeslag (subsidio para el seguro médico) también subirá, pero solo 11 euros al mes, sin compensar del todo el incremento. Las personas que no puedan pagar la prima durante más de seis meses quedan registradas en el CAK y pasan a pagar una tarifa más alta; actualmente hay 200.000 personas en esa situación en los Países Bajos.",
-      "category": "trabajo",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2636058",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Randstad reporta mayor demanda de trabajadores temporales en transporte e industria en Países Bajos",
-      "summary": "La agencia de empleo temporal Randstad registró un crecimiento en la demanda de trabajadores para fábricas, aeropuertos y centros de distribución, lo que representa más oportunidades para migrantes que buscan empleo a través de uitzendbureaus. En los Países Bajos, la demanda aumenta también como consecuencia del repunte industrial en Alemania, que genera un efecto positivo en el mercado laboral neerlandés. Randstad señala que la incertidumbre económica global lleva a las empresas a ampliar su plantilla flexible, lo que favorece la contratación de trabajadores temporales. Es importante recordar que en años recientes los Países Bajos endurecieron las reglas para trabajadores temporales, por lo que los migrantes deben verificar que sus condiciones de contratación cumplan con la normativa vigente.",
-      "category": "trabajo",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2636063",
-      "date": "2026-10-21"
-    },
-    {
-      "title": "Fallo en control de pasaportes en Schiphol causa largas esperas",
-      "summary": "Un fallo técnico en los 78 torniquetes de control electrónico de pasaportes en el aeropuerto de Schiphol dejó a todos los viajeros procedentes o con destino a países fuera del espacio Schengen sin posibilidad de usar estos dispositivos. Como consecuencia, todos los controles deben realizarse de forma manual, generando esperas de entre una hora y hora y media. Varios pasajeros perdieron sus vuelos, aunque KLM y Transavia indicaron que están tomando medidas para minimizar el impacto. La causa del fallo aún se desconoce, aunque las autoridades descartan un ciberataque.",
-      "category": "nederland",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2635450",
-      "date": "2026-10-18"
-    },
-    {
-      "title": "Aqualectra alerta sobre información falsa relacionada con cortes de luz en Curazao",
-      "summary": "La empresa de servicios públicos Aqualectra advierte que está circulando un mensaje falso sobre una supuesta regulación temporal de cortes de electricidad en la isla. La compañía aclara que dicha información no proviene de ellos y pide a la población que no la tome como oficial. Los residentes en Curazao, incluidos migrantes, deben verificar cualquier comunicado directamente a través de los canales oficiales de Aqualectra para evitar confusiones o posibles fraudes.",
-      "category": "curacao",
-      "source": "nu.CW",
-      "source_url": "https://nu.cw/2026/10/15/aqualectra-waarschuwt-voor-valse-informatie-over-stroomonderbrekingen/",
-      "date": "2026-10-16"
     }
   ]
 }
