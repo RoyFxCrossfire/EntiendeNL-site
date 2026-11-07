@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "title": "Países Bajos endurece reglas para trabajadores migrantes desplazados desde otros países de la UE",
+      "summary": "El gobierno neerlandés quiere imponer requisitos más estrictos a los trabajadores de fuera de la UE que llegan a los Países Bajos mediante empresas de otros países europeos, una práctica que considera una vía para eludir la normativa holandesa. A partir del 1 de julio de 2027, estos trabajadores deberán haber trabajado al menos tres meses en el país europeo por el que entraron antes de poder ser enviados a los Países Bajos, y deberán contar con un permiso de residencia válido en ese país por más tiempo del que dure su trabajo en Holanda. Además, las multas para empleadores que incumplan la legislación laboral subirán un 22% a partir de julio de 2026; por ejemplo, pagar menos del salario mínimo podrá costar hasta 12.200 euros. También está previsto que para 2028 las empresas no puedan descontar del salario mínimo el coste del alojamiento que ofrecen a sus trabajadores, y que se prohíba el uso de trabajadores de agencias de trabajo temporal (uitzendkrachten) en el sector cárnico.",
+      "category": "regulacion",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2638357",
+      "date": "2026-11-07"
+    },
+    {
       "title": "Curazao advierte sobre posibles cortes de luz durante varios días",
       "summary": "Las autoridades de Curazao han informado que el suministro eléctrico de la isla será inestable desde el jueves hasta el domingo. Las horas de la noche son el período de mayor riesgo para los cortes de electricidad. Residentes y migrantes que viven en la isla deben estar preparados para interrupciones en el servicio durante esos días. Se recomienda tomar precauciones, especialmente si se depende de equipos eléctricos esenciales en el hogar o el trabajo.",
       "category": "curacao",
@@ -230,14 +238,6 @@
       "category": "trabajo",
       "source": "NOS.nl",
       "source_url": "https://nos.nl/l/2636107",
-      "date": "2026-10-22"
-    },
-    {
-      "title": "Aumentan los autónomos en Países Bajos: claves para migrantes que trabajan como zzp'er",
-      "summary": "El número de nuevas empresas en los Países Bajos creció más de un 15% en el tercer trimestre del año, y más de 8 de cada 10 son trabajadores autónomos sin personal (zzp'ers). El aumento es especialmente notable en sectores como educación, construcción y salud, donde muchos migrantes encuentran empleo. Esto ocurre a pesar de las nuevas reglas contra la 'falsa autonomía' (schijnzelfstandigheid), que la autoridad fiscal neerlandesa comenzó a aplicar activamente desde enero de 2025. Quienes trabajen como zzp'ers deben asegurarse de que su situación laboral real coincida con su figura legal, ya que trabajar de facto como empleado bajo contrato de autónomo puede tener consecuencias fiscales y laborales. El gobierno planea una nueva Ley de Autónomos (Zelfstandigenwet) para 2028 que busca dar mayor claridad sobre las condiciones en que se puede trabajar de forma independiente.",
-      "category": "trabajo",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2636162",
       "date": "2026-10-22"
     }
   ]
