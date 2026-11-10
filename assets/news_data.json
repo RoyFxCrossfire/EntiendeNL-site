@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "title": "Banco Central advierte sobre posible colapso de plataforma de inversión Quick Promo en Curazao",
+      "summary": "El Banco Central de Curazao y Sint Maarten (CBCS) ha emitido una advertencia pública sobre el riesgo de colapso de la plataforma de inversión Quick Promo. La plataforma obliga a sus participantes a depositar 300 dólares adicionales en un plazo de 72 horas, una señal típica de esquemas fraudulentos. Las personas migrantes que hayan invertido o estén considerando invertir en esta plataforma deben extremar la precaución. Se recomienda no realizar nuevos depósitos y consultar con la CBCS ante cualquier duda sobre la legitimidad de plataformas de inversión en la isla.",
+      "category": "curacao",
+      "source": "nu.CW",
+      "source_url": "https://nu.cw/2026/11/10/cbcs-waarschuwt-voor-mogelijk-instorten-quick-promo/",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "El gobierno neerlandés mantiene el recorte de financiación para alojamiento de migrantes sin documentos",
+      "summary": "El gobierno de los Países Bajos ratificó ante el Consejo de Estado su decisión de eliminar la financiación del programa nacional que proporcionaba alojamiento, comida y aseo básico a personas sin estatus legal de residencia (conocido como 'bed-bad-brood'). El recorte entró en vigor en enero de 2025 y afecta a unas 600 personas en situación vulnerable, muchas de ellas con problemas físicos o psicológicos y sin posibilidad real de ser deportadas. Varios tribunales de Ámsterdam y Róterdam ya habían dictaminado que suspender esta ayuda podía constituir un trato inhumano o degradante, violando el Convenio Europeo de Derechos Humanos. El gobierno argumenta que existe una alternativa en el centro de Ter Apel, aunque con solo 232 plazas y bajo la condición de participar en un proceso de retorno voluntario, lo que muchos afectados no pueden cumplir. El Consejo de Estado emitirá su sentencia definitiva en un plazo de al menos seis semanas, aunque podría tardar más.",
+      "category": "nederland",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2638869",
+      "date": "2026-11-10"
+    },
+    {
       "title": "Trabajadores migrantes en los Países Bajos enfrentan incertidumbre sobre sus pensiones acumuladas en varios países",
       "summary": "Muchas personas que han trabajado en distintos países de la UE, incluidos migrantes en los Países Bajos procedentes de Polonia, Rumanía y España, acumulan derechos de pensión en diferentes sistemas sin poder consultar fácilmente el total de sus ahorros. Un problema concreto es que miles de ex trabajadores no reclaman su pensión holandesa porque no recuerdan haberla generado o no saben cómo solicitarla; solo en el fondo ABP hay unos 18.000 beneficiarios que no cobran su dinero. Existe un proyecto europeo llamado Find Your Pension que busca centralizar esta información en una sola plataforma, pero los Países Bajos aún no están conectados a ella y no se espera que lo estén antes de 2028. Mientras tanto, quien haya cotizado en fondos de pensiones neerlandeses debe recordar por su cuenta a qué fondos perteneció y contactarlos directamente cuando se acerque su fecha de jubilación.",
       "category": "trabajo",
@@ -223,22 +239,6 @@
       "source": "Europa.eu",
       "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_2263",
       "date": "2026-10-27"
-    },
-    {
-      "title": "El gobierno neerlandés planea reducir personal del IND y otras agencias clave para migrantes",
-      "summary": "El gabinete neerlandés tiene previsto eliminar alrededor de 25.000 puestos de funcionarios públicos para 2035, lo que equivale a un 16% de la plantilla total del gobierno central. Aunque la policía y defensa quedan exentas, organismos como el IND (servicio de inmigración), el UWV (agencia de empleo) y la Agencia Tributaria no están protegidos de los recortes. El secretario de Estado Van der Burg sostiene que estas instituciones podrán funcionar con menos personal si se simplifican o eliminan trámites y normativas. Para los migrantes hispanohablantes esto es relevante, ya que una reducción de personal en el IND podría traducirse en tiempos de espera más largos para la resolución de solicitudes de permisos de residencia y trabajo. En los próximos seis meses se espera que el gobierno concrete qué áreas específicas serán afectadas.",
-      "category": "regulacion",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2636722",
-      "date": "2026-10-26"
-    },
-    {
-      "title": "Los precios de energía en Curazao siguen subiendo y el panorama para 2027 es poco alentador",
-      "summary": "El costo de un contrato de energía de un año en Curazao ha aumentado alrededor de 1.100 florines en apenas diez meses. Un hogar con consumo promedio paga actualmente más de 2.700 florines al año en facturas de energía. Las perspectivas para el próximo año no son favorables, ya que se espera que los precios continúen al alza. Esto representa un gasto importante a considerar para los migrantes que planean instalarse o que ya viven en la isla, ya que el costo de vida se ve directamente afectado.",
-      "category": "curacao",
-      "source": "nu.CW",
-      "source_url": "https://nu.cw/2026/10/24/energieprijzen-blijven-maar-stijgen-en-ook-voor-volgend-jaar-ziet-het-er-somber-uit/",
-      "date": "2026-10-24"
     }
   ]
 }
