@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "title": "Curazao amplía trámites gubernamentales disponibles en línea",
+      "summary": "Desde este lunes, los residentes de Curazao pueden solicitar en línea diversas licencias y permisos relacionados con tráfico y transporte. Esta digitalización es impulsada por los ministerios de Administración, Planificación y Servicios (BPD) y el de Tráfico y Transporte. Para los migrantes que residen en la isla, esto facilita la realización de trámites oficiales sin necesidad de acudir presencialmente a las oficinas gubernamentales. Se recomienda verificar en los portales oficiales cuáles permisos específicos ya están disponibles en línea.",
+      "category": "curacao",
+      "source": "nu.CW",
+      "source_url": "https://nu.cw/2026/11/12/meer-overheidsdiensten-online-beschikbaar/",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Países Bajos abandona la meta de cero personas sin hogar en 2030, con migrantes laborales entre los afectados",
+      "summary": "El gobierno neerlandés reconoció que su objetivo de eliminar el sinhogarismo para 2030 no es alcanzable, ya que actualmente unas 33.000 personas entre 18 y 65 años carecen de vivienda fija. Entre los factores que complican la situación se menciona explícitamente el aumento de migrantes laborales sin hogar, lo que presiona los sistemas de acogida municipal. Los alcaldes de las cuatro grandes ciudades, en nombre de otras 40 municipalidades, piden al gobierno central 100 millones de euros adicionales para alojamiento de emergencia, señalando que ya no es posible ofrecer una acogida digna. El gobierno respondió que no habrá financiación extra por el momento, lo que podría agravar las condiciones de alojamiento para trabajadores migrantes en situación vulnerable.",
+      "category": "regulacion",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2639077",
+      "date": "2026-11-12"
+    },
+    {
       "title": "Experto del Cft advierte que Curazao debe fortalecer su economía ante incertidumbres globales",
       "summary": "Paul Hilbers, miembro del Colegio de Supervisión Financiera (Cft), señaló en una conferencia que Curazao necesita reforzar su resistencia económica frente a las incertidumbres internacionales. Este tipo de recomendaciones del Cft suelen influir en las decisiones fiscales y presupuestarias del Gobierno de Curazao, lo que puede tener consecuencias en servicios públicos, empleo y condiciones de vida en la isla. Para los migrantes y residentes en Curazao, la estabilidad económica del territorio es relevante en aspectos como el mercado laboral, los servicios de seguridad social (SVB) y la disponibilidad de vivienda. Conviene estar atentos a las medidas concretas que el gobierno pueda adoptar como respuesta a estas recomendaciones.",
       "category": "curacao",
@@ -222,22 +238,6 @@
       "category": "trabajo",
       "source": "NOS.nl",
       "source_url": "https://nos.nl/l/2636923",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "Solo el 8% de viviendas sociales en Países Bajos se asignan a refugiados reconocidos",
-      "summary": "Según datos del CBS (instituto estadístico neerlandés), en 2024 el porcentaje de viviendas de corporaciones de vivienda asignadas a personas con estatus de refugiado (statushouders) se mantuvo estable en torno al 8%, unas 13.000 viviendas. Sin embargo, entre quienes acceden por primera vez al mercado de alquiler social, el 21% son statushouders, una proporción que ha crecido respecto a años anteriores. Quienes obtienen un permiso de residencia como refugiados tienen derecho legal a una vivienda, pero la escasez de oferta hace que muchos sigan viviendo en centros de acogida temporales mientras esperan. Los municipios son los responsables de encontrar alojamiento para este grupo, aunque cada vez les resulta más difícil debido a la tensión del mercado inmobiliario neerlandés.",
-      "category": "trabajo",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2636959",
-      "date": "2026-10-28"
-    },
-    {
-      "title": "Un tribunal holandés avala que Booking.com obligue a sus empleados a ir a la oficina el 40% de su jornada",
-      "summary": "Un juez de Ámsterdam ha dado la razón a Booking.com en su disputa con el comité de empresa: la compañía puede exigir a sus trabajadores que estén presentes en la oficina al menos el 40% de su tiempo laboral, lo que equivale a dos días por semana para quienes trabajan cinco días. El tribunal argumentó que la presencialidad fomenta la colaboración, la formación y la cohesión entre equipos, y que los empleados fueron contratados con Ámsterdam como sede de trabajo. Habrá un período de transición de seis meses antes de que la obligación entre en vigor, y podrán hacerse excepciones individuales para quienes se vean especialmente perjudicados. Esta decisión es relevante para migrantes que trabajan en Booking.com o en empresas similares en los Países Bajos, ya que puede afectar a sus condiciones laborales y a decisiones sobre su lugar de residencia. El fallo también marca un precedente sobre los límites del teletrabajo en el país.",
-      "category": "trabajo",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2637007",
       "date": "2026-10-28"
     }
   ]
