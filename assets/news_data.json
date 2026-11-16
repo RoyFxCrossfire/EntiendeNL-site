@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "title": "Países Bajos estudia enviar solicitantes de asilo rechazados a Ruanda, y debate sobre el teletrabajo",
+      "summary": "El gobierno neerlandés analiza la posibilidad de deportar a Ruanda a quienes hayan agotado su proceso de asilo sin obtener permiso de residencia y se nieguen a regresar a su país de origen. El plan generaría un centro de expulsión en ese país africano, aunque expertos advierten sobre posibles violaciones del derecho internacional y los derechos humanos. Por otro lado, el debate sobre el teletrabajo afecta directamente a trabajadores en los Países Bajos: varias empresas como Vodafone, ABN-AMRO y Booking.com exigen mayor presencia en la oficina. Surge la pregunta de si los empleadores pueden obligar legalmente a sus trabajadores a volver a la oficina tras años de trabajo en casa, y cuáles son los derechos del empleado en estos casos.",
+      "category": "nederland",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2639719",
+      "date": "2026-11-16"
+    },
+    {
       "title": "Curazao lanza programa de trabajo para personas que reciben asistencia social",
       "summary": "El Ministerio de Desarrollo Social, Trabajo y Bienestar (SOAW) de Curazao ha puesto en marcha un nuevo proyecto que permite a los beneficiarios de asistencia social (onderstand) ganar experiencia laboral participando en tareas de limpieza y mantenimiento de la isla. Este tipo de programas puede ser relevante para migrantes residentes en Curazao que dependen de ayudas sociales, ya que podrían ofrecerles una vía para integrarse al mercado laboral. Participar en iniciativas del SOAW puede influir en la situación administrativa y laboral de quienes buscan mejorar su condición de residencia. Se recomienda consultar directamente con el SOAW para conocer los requisitos de participación y si aplica a personas con distintos estatus migratorios.",
       "category": "curacao",
@@ -231,14 +239,6 @@
       "source": "NOS.nl",
       "source_url": "https://nos.nl/l/2637259",
       "date": "2026-10-30"
-    },
-    {
-      "title": "Policía de Curazao refuerza controles contra el comercio callejero ilegal en Willemstad",
-      "summary": "La Policía de Curazao (KPC) realizó un operativo de gran escala en los barrios de Punda y Otrobanda, en el centro de Willemstad, donde detectó múltiples infracciones relacionadas con la venta ambulante y la falta de permisos comerciales. Esta acción es relevante para migrantes que trabajen o tengan un negocio en la vía pública, ya que ejercer el comercio sin las licencias correspondientes puede acarrear sanciones legales. Las autoridades dejaron claro que continuarán con este tipo de controles en la zona. Quienes realicen actividades comerciales en Curazao deben asegurarse de contar con los permisos oficiales requeridos antes de operar.",
-      "category": "curacao",
-      "source": "nu.CW",
-      "source_url": "https://nu.cw/2026/10/29/politie-pakt-illegale-straathandel-aan-in-centrum-willemstad/",
-      "date": "2026-10-29"
     }
   ]
 }
