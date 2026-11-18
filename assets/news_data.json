@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "title": "Partidos holandeses debaten el uso de términos de extrema derecha sobre migración en el parlamento",
+      "summary": "El término 'remigración' —que en contextos de extrema derecha alude a la deportación de personas con origen migrante— se pronunció 96 veces en el parlamento holandés solo desde 2024, principalmente por el partido Forum voor Democratie (FVD). Los servicios de inteligencia holandeses AIVD y NCTV advierten que estos términos son usados por grupos extremistas para normalizar ideas que buscan establecer un 'etnoestado blanco' y atentar contra el orden democrático. Expertos señalan que el uso de este lenguaje por parte de un partido parlamentario contribuye a que ideas radicales parezcan aceptables en el debate público. Este contexto es relevante para migrantes hispanohablantes en los Países Bajos, ya que refleja el clima político actual en torno a la migración y las posturas de distintos partidos sobre la presencia de personas con origen extranjero en el país. El presidente de la Cámara ha descartado prohibir palabras, apostando por el debate abierto sobre el significado y la intención detrás de estos términos.",
+      "category": "regulacion",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2639958",
+      "date": "2026-11-18"
+    },
+    {
       "title": "Países Bajos estudia enviar solicitantes de asilo rechazados a Ruanda, y debate sobre el teletrabajo",
       "summary": "El gobierno neerlandés analiza la posibilidad de deportar a Ruanda a quienes hayan agotado su proceso de asilo sin obtener permiso de residencia y se nieguen a regresar a su país de origen. El plan generaría un centro de expulsión en ese país africano, aunque expertos advierten sobre posibles violaciones del derecho internacional y los derechos humanos. Por otro lado, el debate sobre el teletrabajo afecta directamente a trabajadores en los Países Bajos: varias empresas como Vodafone, ABN-AMRO y Booking.com exigen mayor presencia en la oficina. Surge la pregunta de si los empleadores pueden obligar legalmente a sus trabajadores a volver a la oficina tras años de trabajo en casa, y cuáles son los derechos del empleado en estos casos.",
       "category": "nederland",
@@ -230,14 +238,6 @@
       "category": "curacao",
       "source": "nu.CW",
       "source_url": "https://nu.cw/2026/10/30/bevolkingsgroei-neemt-verder-af-forse-daling-van-aantal-syrische-immigranten/",
-      "date": "2026-10-30"
-    },
-    {
-      "title": "Bajan las solicitudes de asilo en Países Bajos y cambian las reglas para reunificación familiar",
-      "summary": "El número de primeras solicitudes de asilo en los Países Bajos cayó un 13% en el tercer trimestre de 2026 respecto al mismo período del año anterior, según datos del CBS basados en cifras de la IND. Desde el 12 de junio de 2026 está en vigor el Pacto Europeo de Asilo y Migración, y la IND ahora debe resolver los expedientes en un máximo de seis meses, frente a los dos años que tardaba anteriormente. También entró en vigor el sistema de doble estatus (A y B): quienes reciban la categoría B, por ejemplo personas que huyeron de conflictos armados sin reconocimiento formal de refugiado, deben esperar dos años antes de poder solicitar la reunificación familiar. Además, para traer a su familia, estos titulares de la B-status deben contar con vivienda propia y recursos económicos suficientes, y la reagrupación queda limitada al núcleo familiar directo. Organizaciones como Vluchtelingenwerk y abogados de asilo advierten de que la mayor rapidez en los procedimientos puede perjudicar a solicitantes vulnerables al reducir la exhaustividad del proceso.",
-      "category": "nederland",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2637259",
       "date": "2026-10-30"
     }
   ]
