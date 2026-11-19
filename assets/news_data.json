@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "title": "Aumenta la construcción de viviendas sociales en los Países Bajos, aunque el sector advierte limitaciones financieras",
+      "summary": "En 2024 se construyeron 2.100 viviendas sociales más que el año anterior, sumando un total de 13.000 nuevas unidades disponibles. Una vivienda social en los Países Bajos tiene un alquiler máximo de 932,93 euros al mes al inicio del contrato; entre ese monto y 1.228,07 euros se considera vivienda de alquiler medio. Para los migrantes que buscan vivienda asequible, es relevante saber que los Países Bajos cuentan actualmente con 2,1 millones de viviendas sociales, aunque la demanda sigue siendo alta. Sin embargo, la asociación del sector, Aedes, advierte que las corporaciones de vivienda gastan más de lo que ingresan y que, sin medidas de apoyo, podrían verse obligadas a reducir la construcción y el mantenimiento en el futuro.",
+      "category": "trabajo",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2640102",
+      "date": "2026-11-19"
+    },
+    {
       "title": "Partidos holandeses debaten el uso de términos de extrema derecha sobre migración en el parlamento",
       "summary": "El término 'remigración' —que en contextos de extrema derecha alude a la deportación de personas con origen migrante— se pronunció 96 veces en el parlamento holandés solo desde 2024, principalmente por el partido Forum voor Democratie (FVD). Los servicios de inteligencia holandeses AIVD y NCTV advierten que estos términos son usados por grupos extremistas para normalizar ideas que buscan establecer un 'etnoestado blanco' y atentar contra el orden democrático. Expertos señalan que el uso de este lenguaje por parte de un partido parlamentario contribuye a que ideas radicales parezcan aceptables en el debate público. Este contexto es relevante para migrantes hispanohablantes en los Países Bajos, ya que refleja el clima político actual en torno a la migración y las posturas de distintos partidos sobre la presencia de personas con origen extranjero en el país. El presidente de la Cámara ha descartado prohibir palabras, apostando por el debate abierto sobre el significado y la intención detrás de estos términos.",
       "category": "regulacion",
@@ -230,14 +238,6 @@
       "category": "curacao",
       "source": "nu.CW",
       "source_url": "https://nu.cw/2026/10/30/bevolking-groeit-opnieuw-alleen-door-migratie-maar-ook-dat-cijfer-daalt/",
-      "date": "2026-10-30"
-    },
-    {
-      "title": "Países Bajos: la inmigración sigue creciendo pero a menor ritmo, con fuerte caída de sirios",
-      "summary": "En los primeros tres trimestres de 2026, los Países Bajos continuaron creciendo en población gracias a la migración, aunque el ritmo de llegadas ha disminuido respecto a periodos anteriores. El descenso más notable se registra entre los inmigrantes sirios, cuyo número ha caído de forma significativa. Esta tendencia refleja cambios en los flujos migratorios hacia el país que pueden ser relevantes para quienes planean mudarse o están en proceso de solicitar residencia. Los migrantes hispanohablantes que estén considerando establecerse en los Países Bajos deben tener en cuenta que el contexto migratorio general está evolucionando, lo que podría influir en tiempos de espera y políticas del IND.",
-      "category": "curacao",
-      "source": "nu.CW",
-      "source_url": "https://nu.cw/2026/10/30/bevolkingsgroei-neemt-verder-af-forse-daling-van-aantal-syrische-immigranten/",
       "date": "2026-10-30"
     }
   ]
