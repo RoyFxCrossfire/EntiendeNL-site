@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "title": "Familia uzbeka en Países Bajos reinicia trámite de asilo tras dos años de refugio en iglesia",
+      "summary": "Una familia uzbeka que llevaba dos años viviendo en una iglesia de Kampen para evitar su deportación ha decidido abandonar ese refugio tras un fallo favorable del Consejo de Estado neerlandés. El tribunal supremo en materia de asilo dictaminó este verano que el interés de los niños arraigados en los Países Bajos debe pesar más que las restricciones migratorias, lo que obliga al ministro a revisar su solicitud de permiso de residencia. Este caso es relevante para familias migrantes sin permiso de residencia cuyos hijos llevan al menos cinco años viviendo en el país, ya que podrían beneficiarse de este criterio legal. Según el IND, hay más de 420 menores en situación similar, aunque organizaciones de derechos del niño creen que la cifra real es mayor. Mientras dure el nuevo procedimiento, la familia tiene derecho a permanecer legalmente en los Países Bajos.",
+      "category": "nederland",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2640412",
+      "date": "2026-11-21"
+    },
+    {
       "title": "Aumenta la construcción de viviendas sociales en los Países Bajos, aunque el sector advierte limitaciones financieras",
       "summary": "En 2024 se construyeron 2.100 viviendas sociales más que el año anterior, sumando un total de 13.000 nuevas unidades disponibles. Una vivienda social en los Países Bajos tiene un alquiler máximo de 932,93 euros al mes al inicio del contrato; entre ese monto y 1.228,07 euros se considera vivienda de alquiler medio. Para los migrantes que buscan vivienda asequible, es relevante saber que los Países Bajos cuentan actualmente con 2,1 millones de viviendas sociales, aunque la demanda sigue siendo alta. Sin embargo, la asociación del sector, Aedes, advierte que las corporaciones de vivienda gastan más de lo que ingresan y que, sin medidas de apoyo, podrían verse obligadas a reducir la construcción y el mantenimiento en el futuro.",
       "category": "trabajo",
@@ -231,14 +239,6 @@
       "source": "NOS.nl",
       "source_url": "https://nos.nl/l/2637747",
       "date": "2026-11-02"
-    },
-    {
-      "title": "La migración sigue siendo el único motor del crecimiento poblacional en los Países Bajos, pero las cifras bajan",
-      "summary": "Durante los primeros tres trimestres de 2026, la población de los Países Bajos creció únicamente gracias a la migración, ya que el crecimiento natural (nacimientos menos defunciones) no aportó al aumento demográfico. Sin embargo, el número de migrantes que se establecieron en el país también disminuyó en comparación con períodos anteriores. Esta tendencia puede reflejar cambios en las políticas migratorias o una menor llegada de nuevos residentes extranjeros. Para los migrantes hispanohablantes, este contexto es relevante porque puede influir en futuras decisiones políticas sobre permisos de residencia y acceso al mercado laboral en los Países Bajos.",
-      "category": "curacao",
-      "source": "nu.CW",
-      "source_url": "https://nu.cw/2026/10/30/bevolking-groeit-opnieuw-alleen-door-migratie-maar-ook-dat-cijfer-daalt/",
-      "date": "2026-10-30"
     }
   ]
 }
