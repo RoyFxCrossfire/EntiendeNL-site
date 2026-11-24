@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "title": "El Parlamento holandés debate cambios a la ley de remigración y medidas de retorno voluntario",
+      "summary": "La mayoría del Parlamento neerlandés aprobó una moción para cambiar el nombre y el lenguaje de la Ley de Remigración de 1999, que desde enero de 2025 ya no acepta nuevas solicitudes de apoyo económico para migrantes que quieran regresar voluntariamente a su país de origen. Además, se aprobó una moción para ofrecer una prima de 10.000 euros a sirios con permiso de residencia temporal que decidan regresar voluntariamente a Siria. También se votó a favor de iniciar conversaciones sobre el retorno desde etapas más tempranas del proceso de asilo, siguiendo un modelo similar al de Suiza, donde se ofrecen incentivos económicos mayores a quienes deciden irse pronto. Finalmente, se aprobó una moción del PVV para retirar el pasaporte neerlandés a personas con doble nacionalidad condenadas de forma definitiva por delitos graves, medida que podría afectar a migrantes naturalizados.",
+      "category": "regulacion",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2640852",
+      "date": "2026-11-24"
+    },
+    {
       "title": "Familia uzbeka en Países Bajos reinicia trámite de asilo tras dos años de refugio en iglesia",
       "summary": "Una familia uzbeka que llevaba dos años viviendo en una iglesia de Kampen para evitar su deportación ha decidido abandonar ese refugio tras un fallo favorable del Consejo de Estado neerlandés. El tribunal supremo en materia de asilo dictaminó este verano que el interés de los niños arraigados en los Países Bajos debe pesar más que las restricciones migratorias, lo que obliga al ministro a revisar su solicitud de permiso de residencia. Este caso es relevante para familias migrantes sin permiso de residencia cuyos hijos llevan al menos cinco años viviendo en el país, ya que podrían beneficiarse de este criterio legal. Según el IND, hay más de 420 menores en situación similar, aunque organizaciones de derechos del niño creen que la cifra real es mayor. Mientras dure el nuevo procedimiento, la familia tiene derecho a permanecer legalmente en los Países Bajos.",
       "category": "nederland",
@@ -230,14 +238,6 @@
       "category": "trabajo",
       "source": "NOS.nl",
       "source_url": "https://nos.nl/l/2637703",
-      "date": "2026-11-02"
-    },
-    {
-      "title": "Nuevo acuerdo en Países Bajos para ayudar más rápido a personas con deudas",
-      "summary": "En los Países Bajos, cinco grandes despachos de alguaciles (deurwaarders) firmaron un acuerdo con la asociación de ayuda financiera NVVK para que las personas con deudas reciban asistencia antes de que se les embarguen el salario, la cuenta bancaria o sus bienes. A partir de ahora, cuando alguien acuda a un servicio de ayuda a deudores, los alguaciles pausarán automáticamente cualquier embargo en curso mientras se analiza la situación financiera. Esto es especialmente relevante para migrantes, quienes pueden enfrentar deudas y no siempre conocen sus derechos ante un alguacil. En los Países Bajos hay actualmente 724.000 personas con deudas problemáticas, con una deuda media de 40.000 euros y unos 12 o 13 acreedores. Además, el Gobierno destinará 20 millones de euros anuales para apoyar a quienes estén en riesgo de endeudarse.",
-      "category": "trabajo",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2637747",
       "date": "2026-11-02"
     }
   ]
