@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "title": "Países Bajos prohibirá el uso de trabajadores temporales en mataderos a partir de 2028",
+      "summary": "El secretario de Estado holandés ha advertido sobre condiciones laborales graves en la industria cárnica, incluyendo mal trato y vivienda inadecuada para trabajadores migrantes. A partir del 1 de marzo de 2028, entrará en vigor una prohibición para contratar trabajadores a través de agencias de empleo temporal (uitzendbureaus) en empresas cárnicas dedicadas al sacrificio, procesamiento, refrigeración y congelación. Los contratos existentes tendrán un período de transición hasta el 1 de junio de 2028. Esta medida afecta directamente a muchos migrantes que actualmente trabajan en este sector a través de agencias temporales. Las empresas del sector deberán adaptar sus modelos de contratación antes de esas fechas límite.",
+      "category": "regulacion",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2640966",
+      "date": "2026-11-25"
+    },
+    {
       "title": "El Parlamento holandés debate cambios a la ley de remigración y medidas de retorno voluntario",
       "summary": "La mayoría del Parlamento neerlandés aprobó una moción para cambiar el nombre y el lenguaje de la Ley de Remigración de 1999, que desde enero de 2025 ya no acepta nuevas solicitudes de apoyo económico para migrantes que quieran regresar voluntariamente a su país de origen. Además, se aprobó una moción para ofrecer una prima de 10.000 euros a sirios con permiso de residencia temporal que decidan regresar voluntariamente a Siria. También se votó a favor de iniciar conversaciones sobre el retorno desde etapas más tempranas del proceso de asilo, siguiendo un modelo similar al de Suiza, donde se ofrecen incentivos económicos mayores a quienes deciden irse pronto. Finalmente, se aprobó una moción del PVV para retirar el pasaporte neerlandés a personas con doble nacionalidad condenadas de forma definitiva por delitos graves, medida que podría afectar a migrantes naturalizados.",
       "category": "regulacion",
@@ -231,14 +239,6 @@
       "source": "NOS.nl",
       "source_url": "https://nos.nl/l/2637818",
       "date": "2026-11-03"
-    },
-    {
-      "title": "Cambios en la pensión de supervivencia en Países Bajos: lo que debes saber",
-      "summary": "El regulador financiero neerlandés AFM advierte que muchas personas no están correctamente cubiertas por la pensión de supervivencia (nabestaandenpensioen) sin saberlo, lo que genera situaciones graves cuando un familiar fallece. Un problema frecuente es no haber registrado al cónyuge o pareja ante el fondo de pensiones antes del fallecimiento, requisito indispensable para tener derecho al beneficio. Con la transición al nuevo sistema de pensiones en los Países Bajos, las reglas cambian: la cobertura ya no se acumula como antes, sino que funciona como un seguro que puede cancelarse al dejar un empleo. Para migrantes que trabajan en los Países Bajos y cotizan a un fondo de pensiones, es importante verificar activamente con su pensioenuitvoerder que su pareja esté registrada y que la cobertura sea suficiente. La AFM exige a los fondos de pensiones que informen de manera más clara y proactiva a sus participantes sobre estos cambios.",
-      "category": "trabajo",
-      "source": "NOS.nl",
-      "source_url": "https://nos.nl/l/2637703",
-      "date": "2026-11-02"
     }
   ]
 }
