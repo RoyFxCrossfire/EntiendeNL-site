@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "title": "Países Bajos busca ampliar el alquiler de habitaciones en casas particulares para aliviar la escasez de vivienda",
+      "summary": "El gobierno neerlandés quiere impulsar el llamado 'hospita verhuur', es decir, el alquiler de una habitación dentro de la propia vivienda del propietario, con el objetivo de crear hasta 100.000 cuartos disponibles, especialmente para estudiantes y personas con ingresos limitados. Para ello, se planea una reforma legal que introduciría contratos temporales y eliminaría trabas relacionadas con las hipotecas, que actualmente impiden a muchos propietarios alquilar. La ley estaba prevista para entrar en vigor el 1 de enero, pero como el Parlamento aún no ha votado, podría retrasarse hasta el 1 de julio. Para los migrantes hispanohablantes que buscan vivienda en los Países Bajos, esta modalidad puede ser una opción accesible en un mercado inmobiliario muy tensionado. Conviene estar atentos a la aprobación definitiva de esta legislación, ya que podría ampliar la oferta de habitaciones disponibles en los próximos meses.",
+      "category": "trabajo",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2641370",
+      "date": "2026-11-28"
+    },
+    {
+      "title": "Puntos de ayuda digital en Países Bajos atienden cada vez más usuarios pero enfrentan recortes de financiación",
+      "summary": "En los Países Bajos existen centros de apoyo llamados Informatiepunt Digitale Overheid (IDO), presentes principalmente en bibliotecas, donde cualquier persona puede recibir ayuda gratuita para realizar trámites digitales con el gobierno, como solicitar subsidios, gestionar impuestos o pedir financiación estudiantil. Estos puntos son especialmente útiles para quienes tienen dificultades con el idioma o habilidades digitales limitadas, un perfil común entre migrantes hispanohablantes. El año pasado atendieron 173.000 consultas, un aumento de más de 40.000 respecto al año anterior, y la mitad de los usuarios tiene menos de 65 años. Sin embargo, su financiación está en riesgo: a partir de 2028 los municipios recibirán menos fondos del gobierno central y podrían destinar ese dinero a otras prioridades. Si necesitas ayuda con trámites digitales en los Países Bajos, puedes acudir a tu biblioteca local para localizar el IDO más cercano.",
+      "category": "nederland",
+      "source": "NOS.nl",
+      "source_url": "https://nos.nl/l/2641340",
+      "date": "2026-11-28"
+    },
+    {
       "title": "Países Bajos no está obligado a asistir a residentes de Gaza con permiso provisional",
       "summary": "Un tribunal de La Haya resolvió en un juicio sumario que los Países Bajos no tiene obligación de prestar asistencia consular a 111 habitantes de Gaza que contaban con un permiso de residencia neerlandés provisional. La sentencia establece un precedente sobre los límites de la responsabilidad del Estado hacia titulares de permisos que se encuentran fuera del país en zonas de conflicto. Esto es relevante para migrantes hispanohablantes con permisos de residencia en los Países Bajos que puedan encontrarse en el extranjero, ya que ilustra que la tenencia de un permiso provisional no garantiza automáticamente asistencia consular del gobierno neerlandés.",
       "category": "curacao",
@@ -222,22 +238,6 @@
       "category": "curacao",
       "source": "nu.CW",
       "source_url": "https://nu.cw/2026/11/06/curacao-moet-opnieuw-rekening-houden-met-stroomuitval/",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "Curazao retrasa la presentación de su nueva política energética hasta principios de 2027",
-      "summary": "El primer ministro de Curazao, Gilmar 'Pik' Pisas, ha anunciado que la presentación del nuevo plan de política energética del gobierno queda aplazada hasta comienzos del próximo año. La notificación fue comunicada oficialmente mediante una carta dirigida al presidente del Parlamento, Fergino Brownbill. Este retraso puede afectar a residentes y migrantes en la isla que esperaban conocer los cambios previstos en materia de energía, un servicio básico que incide directamente en el costo de vida y en las condiciones de vivienda y trabajo en Curazao.",
-      "category": "curacao",
-      "source": "nu.CW",
-      "source_url": "https://nu.cw/2026/11/06/energiebeleid-de-regering-moet-nog-even-schakelen/",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "La UE activa su nuevo ciclo anual de gestión migratoria bajo el Pacto de Migración y Asilo",
-      "summary": "La Comisión Europea ha puesto en marcha el segundo ciclo anual de gestión migratoria, un mecanismo obligatorio y permanente establecido por el Pacto de Migración y Asilo de la UE. Este sistema busca coordinar la solidaridad entre los Estados miembros, incluyendo los Países Bajos, en materia de acogida y distribución de solicitantes de asilo y migrantes. El informe anual evalúa las necesidades de cada país y puede influir en las cuotas de reubicación y en los recursos disponibles para gestionar flujos migratorios. Para los migrantes hispanohablantes que residen o planean residir en los Países Bajos, este marco europeo puede afectar los procedimientos de asilo, los tiempos de tramitación y las políticas de acogida a nivel nacional.",
-      "category": "europa",
-      "source": "Europa.eu",
-      "source_url": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_2366",
       "date": "2026-11-06"
     }
   ]
